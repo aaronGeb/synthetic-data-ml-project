@@ -99,7 +99,7 @@ EXAMPLE_DATA = [
 
 
 class ProductListing(BaseModel):
-    product_id: int = Field(..., description="Unique identifier for the product", example=1)
+    product_id: int = Field(..., description="Unique identifier for the product", example=1234)
     category: str = Field(..., description="Product category (Electronics, Clothing, or Furniture)", example="Electronics")
     brand: str = Field(..., description="Brand name", example="Samsung")
     condition: str = Field(..., description="Product condition (New or Used)", example="New")

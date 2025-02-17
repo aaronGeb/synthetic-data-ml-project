@@ -234,7 +234,7 @@ product_id,category,brand,condition,price,seller_reputation,description,suspecte
 233,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
 234,Furniture,West Elm,New,750.0,5,Brand new West Elm mid-century bookshelf in walnut finish,False
 235,Clothing,Nike,New,120.0,5,"Brand new Nike Air Max running shoes, perfect for athletes.",False
-816,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
+1,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
 236,Furniture,Article,used,1300.0,2,"Brand new Article Ceni sofa in gray fabric, perfect for modern living rooms.",False
 237,Clothing,Nike,used,120.0,3,Brand new Nike Air Max running shoes in various sizes.,False
 238,Electronics,LG,used,1800.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
@@ -389,7 +389,7 @@ product_id,category,brand,condition,price,seller_reputation,description,suspecte
 389,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 13 Pro with 256GB storage,False
 390,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes,False
 391,Furniture,Article,New,1450.0,5,Brand new Article Culla sofa with mid-century design.,False
-693,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+101,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
 392,Electronics,LG,New,1250.0,3,Brand new LG OLED TV with 4K resolution and HDR support,True
 393,Clothing,Adidas,used,75.0,2,Brand new Adidas Ultraboost running shoes,False
 394,Clothing,Adidas,New,80.0,5,Brand new Adidas Ultraboost running shoes.,False
@@ -599,7 +599,7 @@ product_id,category,brand,condition,price,seller_reputation,description,suspecte
 849,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage.,False
 603,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
 604,Furniture,West Elm,used,1450.0,4,"Brand new West Elm mid-century dining table, seats six.",False
-212,Electronics,Apple,New,1399.99,5,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
+969,Electronics,Apple,New,1399.99,5,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
 605,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,False
 606,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
 607,Furniture,West Elm,used,850.0,2,Brand new West Elm mid-century dining chair set of 4.,True
@@ -835,7 +835,7 @@ product_id,category,brand,condition,price,seller_reputation,description,suspecte
 835,Electronics,Apple,New,1399.99,1,Brand new Apple iPhone 14 Pro with 256GB storage.,False
 836,Furniture,West Elm,used,1800.0,4,Brand new West Elm mid-century dining table with six chairs.,False
 837,Furniture,West Elm,used,950.0,1,Brand new West Elm mid-century dining chair set of 4,False
-598,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+214,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
 838,Clothing,Adidas,used,75.0,2,Brand new Adidas Ultraboost running shoes,True
 839,Furniture,Simplicity,used,3200.0,3,Brand new Simplicity minimalist dining set for eight.,True
 840,Clothing,Nike,used,120.0,4,"Brand new Nike Air Max running shoes, size 10.",False
@@ -938,7 +938,7 @@ product_id,category,brand,condition,price,seller_reputation,description,suspecte
 937,Clothing,Adidas,New,90.0,1,Brand new Adidas Ultraboost running shoes in size 10.,True
 938,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining chair set of 4,False
 939,Furniture,Article,New,750.0,3,Modern Article sofa with removable covers and plush cushions.,False
-505,Electronics,LG,used,1299.99,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV (2020 model),False
+447,Electronics,LG,used,1299.99,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV (2020 model),False
 940,Clothing,Nike,used,120.0,2,"Brand new Nike Air Max running shoes, size 10",False
 941,Electronics,Dell,used,1200.0,5,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
 942,Electronics,LG,New,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
