@@ -1,0 +1,95 @@
+name: Synthetic ML Project Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Miniconda
+      uses: conda-inc/github-action@v2
+      with:
+        install-python: "3.11.7"
+        environment-file: environment.yml
+        activate-environment: my_env
+
+    - name: Verify Conda Environment
+      run: conda info --envs
+
+    - name: Install pytest
+      run: |
+        conda activate my_env
+        conda install pytest -y
+
+    - name: Run Tests
+      run: |
+        conda activate my_env
+        pytest tests/
+
+    - name: Train ML Model
+      run: |
+        conda activate my_env
+        python your_ml_project_code.py
+
+    - name: Save Model Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: trained-model
+        path: ./modelsname: Synthetic ML Project Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Miniconda
+      uses: conda-inc/github-action@v2
+      with:
+        install-python: "3.11.7"
+        environment-file: environment.yml
+        activate-environment: my_env
+
+    - name: Verify Conda Environment
+      run: conda info --envs
+
+    - name: Install pytest
+      run: |
+        conda activate my_env
+        conda install pytest -y
+
+    - name: Run Tests
+      run: |
+        conda activate my_env
+        pytest tests/
+
+    - name: Train ML Model
+      run: |
+        conda activate my_env
+        python your_ml_project_code.py
+
+    - name: Save Model Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: trained-model
+        path: ./models/
