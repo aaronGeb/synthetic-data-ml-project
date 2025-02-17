@@ -1,4 +1,4 @@
-name: Synthetic ML Project Pipeline
+name: Synthetic ML Project
 
 on:
   push:
@@ -16,7 +16,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Set up Miniconda
+    - name: Set up conda
       uses: conda-inc/github-action@v2
       with:
         install-python: "3.11.7"
@@ -45,7 +45,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: trained-model
-        path: ./modelsname: Synthetic ML Project Pipeline
+        path: ./modelsname: Synthetic ML Project
 
 on:
   push:
