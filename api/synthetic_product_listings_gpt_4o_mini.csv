@@ -1,0 +1,501 @@
+product_id,category,brand,condition,price,seller_reputation,description,suspected_fraud
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Electronics,Apple,New,1200.0,5,Brand new Apple MacBook Pro 14-inch with M1 chip,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10",False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold3 5G, 256GB storage.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,SofaCo,New,850.0,4,"Brand new SofaCo 3-seater fabric sofa, perfect for modern living rooms.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,"Brand new Samsung Galaxy S21, 128GB storage",False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century nightstand in walnut finish.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm industrial-style dining table, seats up to 8.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Superstar sneakers, size 10.",False
+26,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century coffee table in walnut finish.,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Superstar sneakers in classic white.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Nike,New,80.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Electronics,Apple,New,1200.0,5,Brand new Apple iPhone 14 Pro Max with 256GB storage.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1400.0,5,Brand new West Elm mid-century dining chair set of 4.,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,90.0,4,"Brand new Adidas Ultraboost 21 running shoes, size 10.",False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century coffee table in walnut finish,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century style coffee table,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chairs set of 4,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table in walnut finish.,False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,West Elm,New,850.0,4,Brand new West Elm mid-century nightstand in walnut finish.,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,5,"Brand new Samsung Galaxy S21 Ultra, 256GB storage",False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1400.0,4,"Brand new West Elm mid-century dining chair set, 4 pieces.",False
+26,Furniture,West Elm,New,950.0,4,Stylish West Elm mid-century dining chair set of 4,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Furniture,West Elm,New,1300.0,4,Stylish West Elm mid-century coffee table with walnut finish.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats 6 comfortably.",False
+26,Clothing,Nike,New,100.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Furniture,Ethan Allen,New,1800.0,4,Brand new Ethan Allen dining table with six chairs.,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold 3, 256GB, Phantom Black.",False
+26,Clothing,Nike,New,90.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats up to 6.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,900.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10, perfect for running.",False
+26,Furniture,Article,New,750.0,4,Brand new Article Ceni mid-century modern sofa,False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra 5G,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes in size 10,False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Nike,New,90.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas ultraboost running shoes,False
+26,Clothing,Lacoste,New,90.0,4,Brand new Lacoste classic fit polo shirt,False
+26,Furniture,West Elm,New,1600.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century style coffee table with storage.,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century dining chair set (4 pieces).,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1300.0,5,Brand new West Elm mid-century dining chairs set of 4.,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S22 with 128GB storage,False
+26,Electronics,Samsung,New,1100.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Nike,New,90.0,4,Brand new Nike Air Max 270 sneakers,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy S21 Ultra, 256GB storage.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,SofaCo,New,1200.0,4,Brand new SofaCo L-shaped sectional with chaise.,False
+26,Furniture,West Elm,New,800.0,4,Brand new West Elm mid-century dining chair set (set of 4),False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Clothing,Adidas,New,80.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Furniture,IKEA,New,300.0,4,Brand new IKEA Hemnes dresser with 6 drawers.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit in white, versatile storage solution.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile storage solution.",False
+26,Furniture,West Elm,New,1200.0,5,"Brand new West Elm mid-century dining chair, stylish and comfortable.",False
+26,Clothing,Adidas,Used,40.0,2,"Gently used Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas UltraBoost running shoes,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,750.0,5,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century nightstand in walnut finish.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold4, 512GB storage, unlocked.",False
+26,Furniture,SofaCo,New,950.0,4,Brand new SofaCo L-shaped sectional sofa with detachable chaise.,False
+26,Furniture,West Elm,New,1750.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Electronics,Samsung,New,999.0,4,"Brand new Samsung Galaxy S21 Ultra, 128GB storage.",False
+26,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Furniture,West Elm,New,1400.0,4,Brand new West Elm mid-century dining chair set (4 chairs).,False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S23 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra 5G,False
+26,Furniture,IKEA,New,499.0,4,"Brand new IKEA Hemnes dresser with 6 drawers, perfect for storage.",False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,North Face,New,120.0,4,"Brand new North Face waterproof jacket, perfect for outdoor adventures.",False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table in walnut finish.,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy Z Fold 4 with 512GB storage,False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Furniture,West Elm,New,900.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas ultra boost sneakers,False
+26,Furniture,IKEA,New,450.0,4,Brand new IKEA Hemnes dresser with six drawers.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,North Face,New,120.0,4,"Brand new North Face waterproof jacket, perfect for outdoor adventures.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish for any room.",False
+26,Clothing,Nike,New,90.0,4,Brand new Nike Air Max running shoes,False
+26,Furniture,IKEA,New,300.0,5,Brand new IKEA MALM dresser with 6 drawers.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy S21 Ultra, 256GB storage",False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,999.99,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table with six chairs.,False
+26,Furniture,West Elm,New,900.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 3, 256GB storage",False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Furniture,IKEA,New,450.0,4,Brand new IKEA KALLAX shelving unit in white.,False
+26,Clothing,Nike,New,85.0,4,Brand new Nike Air Max 270 sneakers,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, perfect for storage and display.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Furniture,West Elm,New,1400.0,4,Brand new West Elm mid-century dining table in walnut finish.,False
+26,Furniture,LoungeLife,New,850.0,4,Brand new LoungeLife reclining chair with lumbar support.,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Adidas,New,70.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century modern coffee table in walnut finish.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,850.0,5,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1800.0,4,Stylish West Elm mid-century modern coffee table.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,West Elm,New,1400.0,4,"Modern West Elm mid-century dining chair set, includes 4 chairs.",False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 4, 256GB",False
+26,Clothing,Nike,New,90.0,5,Brand new Nike Air Max 270 sneakers,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 3, 256GB, foldable smartphone.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1400.0,4,Stylish West Elm mid-century dining chair set (4 chairs).,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century modern coffee table.,False
+26,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century modern coffee table.,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, available in multiple sizes.",False
+26,Clothing,Adidas,New,70.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S23 Ultra with 256GB storage.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Superstar sneakers, size 10.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Clothing,Adidas,New,70.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,750.0,5,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, perfect for storage and display.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1200.0,5,Brand new West Elm mid-century lounge chair,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Nike,New,75.0,4,Brand new Nike Air Max running shoes,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Furniture,Rove Concepts,New,1800.0,4,Brand new Rove Concepts Scandinavian dining chair set of 4.,False
+26,Electronics,Samsung,New,900.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,SofaCo,New,950.0,5,Brand new SofaCo luxury sectional with chaise lounge.,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10, perfect for running.",False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,CB2,New,1200.0,4,Brand new CB2 minimalist dining table with glass top,False
+26,Clothing,Adidas,New,80.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats up to 6.",False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats up to 6.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century modern coffee table in walnut finish.,False
+26,Clothing,Nike,New,75.0,4,Brand new Nike Air Max running shoes,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost 22 running shoes,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century dining table in walnut finish.,False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Nike,New,90.0,4,Brand new Nike Air Max running shoes in various sizes.,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max 270 sneakers, available in multiple sizes.",False
+26,Electronics,Samsung,New,800.0,5,Brand new Samsung Galaxy S22 with 128GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1600.0,4,Brand new West Elm mid-century dining chair set (4 pieces).,False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, perfect for organizing your space.",False
+26,Clothing,North Face,New,120.0,4,"Brand new North Face waterproof jacket, size M.",False
+26,Furniture,IKEA,New,350.0,4,Brand new IKEA KALLAX shelving unit in black-brown.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy S21 Ultra, 256GB, Phantom Black",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, versatile storage solution.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S23 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1350.0,5,"Brand new West Elm mid-century dining chair set, perfect for any dining room.",False
+26,Electronics,Samsung,New,800.0,5,Brand new Samsung Galaxy S21 Ultra 5G,False
+101,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy S21 Ultra, 256GB, unlocked.",False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm mid-century coffee table, walnut finish.",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy Z Fold 4 with 512GB storage.,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10",False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit in white, versatile storage solution.",False
+26,Clothing,North Face,New,120.0,4,"Brand new North Face waterproof jacket, perfect for outdoor adventures.",False
+26,Electronics,Samsung,New,999.0,5,Brand new Samsung Galaxy S21 Ultra,False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm modern dining table, seats 6.",False
+26,Furniture,IKEA,New,350.0,5,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats six comfortably.",False
+26,Furniture,West Elm,New,1350.0,4,"Brand new West Elm mid-century dining chairs, set of 4.",False
+26,Furniture,IKEA,New,400.0,4,Brand new IKEA Hemnes dresser with six drawers.,False
+26,Furniture,West Elm,New,850.0,4,Stylish West Elm mid-century coffee table in walnut finish,False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,85.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold4, 512GB, unlocked.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats six.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold3, 256GB storage, unlocked.",False
+26,Furniture,IKEA,New,350.0,4,Brand new IKEA Hemnes dresser with 6 drawers.,False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats up to 8.",False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm mid-century dining table, seats up to 6.",False
+26,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century coffee table with storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Furniture,West Elm,New,1200.0,4,"Brand new West Elm round dining table, perfect for family gatherings.",False
+26,Clothing,North Face,New,120.0,4,"Brand new North Face waterproof jacket, perfect for outdoor adventures.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile storage solution.",False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 3, 256GB, unlocked",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy Z Fold 4 with 512GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Furniture,SofaCo,New,950.0,4,Brand new SofaCo contemporary sectional sofa with chaise.,False
+26,Furniture,Sofology,New,1400.0,4,Brand new Sofology leather recliner chair with adjustable headrest.,False
+26,Furniture,West Elm,New,1200.0,5,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy S21 Ultra, 128GB",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm modern dining table, seats 6.",False
+26,Furniture,West Elm,New,1200.0,5,Brand new West Elm mid-century desk with storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, available in various sizes.",False
+26,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Furniture,SofaCo,New,850.0,4,Brand new SofaCo 3-seater sofa in grey fabric.,False
+26,Furniture,West Elm,New,1400.0,5,Brand new West Elm mid-century dining chair set (4 chairs).,False
+26,Electronics,Apple,New,1200.0,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 - 512GB storage,False
+26,Electronics,Samsung,New,1100.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,IKEA,New,350.0,4,Brand new IKEA KALLAX shelving unit in white.,False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers in size 10.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 4, unlocked, 512GB",False
+26,Electronics,Apple,New,1200.0,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy Z Fold 4 with 512GB storage,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy S21 Ultra, 256GB storage",False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats up to 8.",False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century modern dining table,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold4, 512GB storage, unlocked.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile storage solution.",False
+26,Furniture,West Elm,New,850.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold4, 512GB, Phantom Black",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1300.0,4,"Brand new West Elm mid-century dining table, seats up to 8.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold 4 with 512GB storage,False
+26,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 512GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,80.0,4,"Brand new Adidas Superstar sneakers, classic design.",False
+26,Furniture,SofaCo,New,1350.0,4,Brand new SofaCo luxury sectional with reversible chaise.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold3, 256GB, unlocked.",False
+26,Furniture,IKEA,New,250.0,4,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas UltraBoost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+101,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century coffee table with a walnut finish.,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Furniture,West Elm,New,1400.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Furniture,West Elm,New,1700.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile storage solution.",False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy S21 Ultra, 256GB, Phantom Black.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Furniture,West Elm,New,1500.0,4,Brand new West Elm mid-century dining chair set of 4,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm modern accent chair in grey upholstery.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,Ashley Furniture,New,950.0,4,Brand new Ashley Furniture modern dining set for six.,False
+26,Clothing,Nike,New,90.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Adidas,New,70.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1200.0,5,"Brand new West Elm mid-century dining table, perfect for family gatherings.",False
+26,Clothing,Nike,New,85.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage.,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Furniture,Article,New,900.0,4,Brand new Article Ceni mid-century modern sofa,False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max 270 sneakers,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold 3 with 256GB storage,False
+26,Furniture,Lazysusan,New,750.0,4,"Brand new Lazysusan round dining table, perfect for family meals.",False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers in size 10.,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelf unit, perfect for organization.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S22 Ultra with 256GB storage.,False
+26,Furniture,West Elm,New,1300.0,5,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold 4, 512GB storage, unlocked.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes.,False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 4, foldable smartphone with 512GB storage.",False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max 270 sneakers,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,Ikea,New,499.99,4,"Brand new Ikea KALLAX shelving unit, perfect for storage and display.",False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,750.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1250.0,4,Brand new West Elm mid-century dining chair set (4 chairs),False
+26,Clothing,Nike,New,85.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,800.0,5,Brand new Samsung Galaxy S21 128GB,False
+26,Furniture,West Elm,New,1600.0,4,Brand new West Elm mid-century dining table in walnut finish.,False
+26,Clothing,Nike,New,85.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Clothing,Nike,New,70.0,4,"Brand new Nike Air Max running shoes, available in various sizes.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold 4 with 512GB storage,False
+26,Furniture,West Elm,New,1300.0,5,"Brand new West Elm mid-century dining chairs, set of 4.",False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,1400.0,4,Brand new West Elm mid-century modern coffee table,False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,West Elm,New,1600.0,5,Brand new West Elm mid-century modern coffee table.,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table with natural finish.,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold4, 512GB storage",False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats 8.",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra,False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century modern coffee table,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,999.0,5,"Brand new Samsung Galaxy S21 Ultra, 256GB, Phantom Black.",False
+26,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,IKEA,New,450.0,4,Brand new IKEA Hemnes dresser with 6 drawers.,False
+26,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers,False
+26,Clothing,Nike,New,75.0,4,Brand new Nike Air Max sneakers in size 10.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Furniture,West Elm,New,950.0,4,Brand new West Elm mid-century dresser with six drawers.,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Clothing,Nike,New,120.0,4,"Brand new Nike Air Max sneakers, size 10",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas UltraBoost running shoes,False
+26,Electronics,Samsung,New,1200.0,5,"Brand new Samsung Galaxy Z Fold3 5G, 256GB storage, unlocked.",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Furniture,SofaCo,New,1300.0,4,Brand new SofaCo modern loveseat with velvet upholstery.,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage.,False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA Billy bookcase, perfect for organizing books and decor.",False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S22 Ultra with 256GB storage,False
+26,Furniture,IKEA,New,399.0,4,"Modern IKEA dining table with a sleek design, perfect for family gatherings.",False
+26,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table made of solid wood.,False
+26,Furniture,West Elm,New,1200.0,5,"Brand new West Elm mid-century dining chair, set of 4.",False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Electronics,Samsung,New,850.0,5,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max running shoes, available in various sizes.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra,False
+26,Electronics,Samsung,New,999.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S22 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,750.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Electronics,Samsung,New,999.0,4,"Brand new Samsung Galaxy S21 Ultra, 128GB storage.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Clothing,Adidas,New,80.0,4,"Brand new Adidas running shoes, size 10.",False
+26,Clothing,Adidas,New,80.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+26,Electronics,Samsung,New,1200.0,4,"Brand new Samsung Galaxy Z Fold 4, 512GB storage.",False
+26,Furniture,IKEA,New,500.0,4,"Brand new IKEA KALLAX shelving unit, perfect for organizing your space.",False
+26,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage,False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats up to 8.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 Ultra with 128GB storage.,False
+26,Clothing,Nike,New,95.0,4,"Brand new Nike Air Max sneakers, size 10",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Clothing,Adidas,New,80.0,4,Brand new Adidas Ultraboost running shoes,False
+26,Furniture,West Elm,New,1200.0,5,"Brand new West Elm mid-century dining table, seats six comfortably.",False
+26,Clothing,Calvin Klein,New,85.0,4,Brand new Calvin Klein classic fit dress shirt,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+26,Electronics,Samsung,New,850.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Clothing,Nike,New,90.0,4,"Brand new Nike Air Max sneakers, available in various sizes.",False
+26,Furniture,West Elm,New,1800.0,5,"Brand new West Elm mid-century dining table, seats up to 8.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Fold3 5G smartphone,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage,False
+26,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+26,Furniture,West Elm,New,1300.0,4,Brand new West Elm mid-century dining table with a natural finish.,False
+26,Electronics,Samsung,New,800.0,4,Brand new Samsung Galaxy S21 with 128GB storage.,False
+26,Furniture,IKEA,New,350.0,4,Brand new IKEA Hemnes dresser with 6 drawers,False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy S21 Ultra with 256GB storage,False
+26,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S22 Ultra with 256GB storage,False
+26,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+26,Clothing,Nike,New,80.0,4,"Brand new Nike Air Max sneakers, size 10, in black.",False
+26,Electronics,Samsung,New,1200.0,4,Brand new Samsung Galaxy Z Flip 4 with 256GB storage,False
+26,Furniture,West Elm,New,1200.0,5,"Brand new West Elm mid-century dining table, seats six.",False
+26,Furniture,IKEA,New,350.0,4,"Brand new IKEA Hemnes dresser in white, stylish and functional.",False

@@ -1,0 +1,21 @@
+product_id,category,brand,condition,price,seller_reputation,description,suspected_fraud
+30,Electronics,Apple,Used,500.0,4,Gently used Apple MacBook Pro 13-inch with Retina display,False
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+32,Electronics,Samsung,Used,400.0,3,Pre-owned Samsung Galaxy S20 in good condition with minor cosmetic wear,True
+45,Electronics,Samsung,Used,400.0,2,Gently used Samsung Galaxy S10 with minor scratches on the screen. Fully functional and unlocked.,True
+31,Electronics,Apple,Used,500.0,4,"Pre-owned Apple MacBook Pro 13-inch with Retina display, 256GB SSD",True
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+30,Electronics,Apple,New,1100.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+34,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+31,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+35,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro with M1 chip,False
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+30,Electronics,Apple,Used,500.0,4,Pre-owned Apple MacBook Pro 13-inch with Retina display,False
+33,Electronics,Apple,Used,600.0,4,Gently used Apple MacBook Pro 13-inch with Retina display,False
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+31,Electronics,Apple,New,1200.0,4,"Brand new Apple MacBook Pro 13"" with M1 chip",False
+30,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+31,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+35,Electronics,Apple,New,1200.0,4,Brand new Apple MacBook Pro 13-inch with M1 chip,False
+31,Electronics,Apple,Used,600.0,4,Gently used Apple MacBook Pro 13-inch with Touch Bar,False
