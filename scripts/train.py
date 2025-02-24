@@ -22,10 +22,16 @@ class XGBoostTrain:
         self.y_train = None
         self.y_test = None
         self.model = None
+        self.scaler = None
 
     def load_data(self) -> DataFrame:
         """load the data"""
-        self.data = pd.read_csv(self.data_path)
+        try:
+            self.data = pd.read_csv(self.data_path)
+            print("Data loaded successfully")
+        except FileNotFoundError as e:
+            print(f"Error loading the data:{e}")
+            raise
         return self.data
 
     def split_data(self, data: DataFrame) -> DataFrame:
@@ -51,9 +57,9 @@ class XGBoostTrain:
     def train_model(self) -> None:
         """train the model"""
         # Instantiate the model
-        sacler = StandardScaler()
-        self.X_train = sacler.fit_transform(self.X_train)
-        self.X_test = sacler.transform(self.X_test)
+        self.scaler = StandardScaler()
+        self.X_train = self.scaler.fit_transform(self.X_train)
+        self.X_test = self.scaler.transform(self.X_test)
         self.model = xgb.XGBRegressor(
             objective="reg:squarederror",
             max_depth=9,
@@ -75,6 +81,9 @@ class XGBoostTrain:
         """evaluate the model"""
         # Make predictions
         y_pred = self.model.predict(self.X_test)
+        #y_pred = np.expm1(y_pred_log)
+        #self.y_test = np.expm1(self.y_test)
+
         # Evaluate the model
         mae = mean_absolute_error(self.y_test, y_pred)
         mse = mean_squared_error(self.y_test, y_pred)

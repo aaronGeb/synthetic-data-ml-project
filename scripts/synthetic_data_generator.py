@@ -210,7 +210,7 @@ def main():
 
     # Generate 1000 synthetic product listingsa
     print("Generating 1000 synthetic product listings...")
-    df = generator.generate_dataset(10)
+    df = generator.generate_dataset(1000)
 
     # Save to CSV
     output_file = (

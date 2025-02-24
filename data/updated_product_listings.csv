@@ -1,0 +1,1001 @@
+product_id,category,brand,condition,price,seller_reputation,description,suspected_fraud
+2.0,Clothing,Adidas,used,75.0,4,Brand new Adidas running shorts,True
+3.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+4.0,Furniture,Joybird,used,1200.0,5,Stylish Joybird mid-century modern sofa with plush cushions.,False
+5.0,Furniture,IKEA,New,350.0,4,Brand new IKEA Hemnes dresser with 6 drawers.,False
+6.0,Furniture,West Elm,New,3200.0,3,Brand new West Elm mid-century dining table in walnut finish.,True
+7.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,False
+258.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+8.0,Electronics,Apple,New,999.99,3,Brand new Apple iPhone 13 Pro with 256GB storage,False
+9.0,Clothing,Adidas,used,75.0,4,Brand new Adidas UltraBoost running shoes,True
+10.0,Furniture,Article,used,1450.0,5,Stylish new Article Avasan dining table with a modern design.,True
+11.0,Furniture,SofaCo,New,1750.0,5,Brand new SofaCo luxury sectional couch with customizable fabric.,True
+12.0,Electronics,LG,New,1200.0,3,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+13.0,Furniture,SofaCo,New,1750.0,4,Brand new SofaCo L-shaped sectional couch in grey fabric.,False
+14.0,Furniture,West Elm,New,1250.0,1,"Brand new West Elm mid-century dining table, seats 6.",False
+15.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,True
+16.0,Furniture,West Elm,New,1350.0,4,"Brand new West Elm mid-century dining chair set, perfect for modern dining rooms.",False
+17.0,Furniture,Joybird,used,1450.0,1,Stylish Joybird modern loveseat in vibrant teal fabric.,False
+18.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+19.0,Clothing,Adidas,New,85.0,1,"Brand new Adidas Ultraboost running shoes, size 10",False
+20.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 128GB storage,False
+21.0,Clothing,Adidas,New,120.0,5,Brand new Adidas UltraBoost running shoes,False
+22.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 128GB storage,True
+23.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes in size 10.,True
+24.0,Furniture,Simplicity,New,1250.0,5,"Brand new Simplicity modern dining table, seats up to 8.",True
+25.0,Electronics,Apple,New,1399.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+693.0,Furniture,West Elm,New,3200.0,5,Sleek and modern West Elm mid-century dining table made from solid wood.,False
+27.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+28.0,Electronics,Dell,New,1200.0,3,Brand new Dell XPS 13 with Intel i7 processor and 16GB RAM,False
+29.0,Furniture,West Elm,used,3500.0,5,"Brand new West Elm mid-century dining table, seats 8.",False
+30.0,Furniture,Article,used,1350.0,4,"Brand new Article Sven grass green sofa, perfect for modern living rooms.",False
+31.0,Clothing,Adidas,New,90.0,2,Brand new Adidas Ultraboost running shoes in size 10.,True
+32.0,Furniture,Simplicity,New,3500.0,1,"Brand new Simplicity handcrafted oak dining table, seats up to 8.",True
+33.0,Electronics,Dell,used,1350.0,2,Brand new Dell XPS 13 laptop with Intel i7 and 16GB RAM,True
+34.0,Furniture,Rove Concepts,used,3200.0,3,"Elegant Rove Concepts Scandinavian dining table, perfect for modern homes.",False
+35.0,Clothing,H&M,New,45.0,5,Brand new H&M casual summer dress in multiple sizes.,False
+36.0,Furniture,West Elm,New,1800.0,3,Brand new West Elm mid-century dining table with 6 chairs.,False
+37.0,Furniture,West Elm,used,3200.0,2,Brand new West Elm mid-century modern dresser with 6 drawers.,True
+38.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+39.0,Furniture,SofaCo,New,2400.0,2,Brand new SofaCo luxury leather sectional with chaise lounge.,False
+40.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro Max with 256GB storage,True
+41.0,Electronics,LG,New,1200.0,5,Brand new LG OLED TV with 55-inch display,False
+42.0,Furniture,West Elm,used,1750.0,3,"Brand new West Elm mid-century dining table, seats up to 8.",False
+43.0,Furniture,Rove Concepts,used,1450.0,5,Brand new Rove Concepts dining table made from solid wood,False
+44.0,Electronics,LG,New,1399.99,3,Brand new LG OLED55CXPUA Alexa Built-In 55-Inch 4K Smart OLED TV,True
+45.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max 270 sneakers,True
+46.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 13 Pro Max with 256GB storage,False
+47.0,Furniture,Herman Miller,New,1800.0,3,Brand new Herman Miller Aeron chair for ergonomic comfort.,True
+48.0,Furniture,Rove Concepts,New,3500.0,4,Luxury Rove Concepts modern dining table crafted from solid wood.,False
+49.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+50.0,Clothing,Adidas,used,75.0,5,Brand new Adidas Ultraboost running shoes,False
+51.0,Furniture,West Elm,New,850.0,5,"Stylish West Elm mid-century dining chair, perfect for any modern home.",False
+52.0,Electronics,LG,used,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 4K UHD.,False
+54.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+55.0,Furniture,West Elm,New,1800.0,2,"Brand new West Elm mid-century dining table, seats 6.",False
+56.0,Furniture,West Elm,New,1450.0,5,Brand new West Elm mid-century dining table with oak finish.,True
+57.0,Electronics,Apple,New,1399.99,4,Brand new Apple iPhone 14 Pro with 128GB storage,False
+58.0,Furniture,Simplicity,used,750.0,3,Stylish Simplicity modern coffee table with minimalist design.,False
+59.0,Clothing,Adidas,New,90.0,4,Brand new Adidas Ultraboost running shoes,False
+60.0,Furniture,Simplicity,used,3200.0,5,"Brand new Simplicity modern dining set for eight, crafted from solid wood.",True
+61.0,Clothing,Adidas,New,120.0,4,"Brand new Adidas Ultraboost running shoes, size 10",True
+62.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+63.0,Furniture,West Elm,New,1750.0,3,Brand new West Elm mid-century modern coffee table.,False
+64.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+65.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+66.0,Electronics,Apple,New,1199.99,4,Brand new Apple iPhone 13 Pro with 256GB storage,True
+67.0,Clothing,Nike,used,120.0,5,"Brand new Nike Air Max sneakers, size 10.",False
+68.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,True
+69.0,Clothing,Adidas,New,120.0,1,"Brand new Adidas Ultraboost running shoes, size 10",False
+70.0,Electronics,LG,New,1450.0,3,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+71.0,Clothing,Nike,New,120.0,3,Brand new Nike Air Max running shoes,False
+72.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+73.0,Electronics,LG,New,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,True
+74.0,Furniture,Article,used,1350.0,1,Brand new Article Ceni leather sofa in charcoal gray,True
+75.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+76.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,True
+77.0,Furniture,West Elm,used,1800.0,4,"Brand new West Elm mid-century dining table, seats up to 6.",False
+78.0,Furniture,Ashley Furniture,used,1250.0,4,Brand new Ashley Furniture farmhouse dining table with 6 chairs.,False
+79.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max running shoes in size 10,False
+81.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+82.0,Furniture,West Elm,New,1750.0,1,Brand new West Elm mid-century dining table,False
+83.0,Electronics,Apple,New,1200.0,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+84.0,Furniture,SofaCo,New,1200.0,1,Brand new SofaCo modern sectional sofa in gray fabric.,True
+85.0,Clothing,Adidas,New,80.0,2,"Brand new Adidas running shoes, lightweight and breathable.",True
+86.0,Clothing,Adidas,New,80.0,2,Brand new Adidas performance running shorts,False
+262.0,Electronics,Apple,used,1399.99,4,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+87.0,Furniture,IKEA,used,350.0,3,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+816.0,Electronics,Apple,New,1249.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,True
+88.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+89.0,Clothing,Adidas,used,85.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+90.0,Furniture,West Elm,New,1450.0,1,Brand new West Elm mid-century dining chair set of four.,False
+91.0,Furniture,West Elm,used,1750.0,2,Brand new West Elm mid-century modern coffee table.,False
+92.0,Furniture,Article,New,950.0,4,Brand new Article Ceni mid-century modern sofa in slate gray.,False
+94.0,Clothing,Adidas,used,120.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+95.0,Clothing,Adidas,used,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",True
+96.0,Electronics,Apple,New,1299.99,4,"Brand new Apple iPhone 14 Pro with 256GB storage, unlocked.",False
+97.0,Clothing,Adidas,used,120.0,4,"Brand new Adidas Ultraboost running shoes, available in various sizes.",True
+98.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,True
+99.0,Electronics,LG,New,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV.,False
+100.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,True
+102.0,Furniture,Joybird,New,1450.0,4,Stylish Joybird mid-century modern sofa with removable cushions.,True
+103.0,Clothing,Adidas,used,120.0,1,"Brand new Adidas sports jacket, perfect for active wear.",False
+104.0,Electronics,LG,used,1200.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+105.0,Furniture,Article,New,1750.0,2,"Brand new Article Sven Grass Green Sofa, perfect for modern living rooms.",False
+106.0,Furniture,Article,used,1250.0,1,"Brand new Article Ceni mid-century modern sofa, perfect for any living space.",True
+107.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes in size 10.,False
+108.0,Furniture,Herman Miller,New,1500.0,1,"Brand new Herman Miller Aeron chair, perfect for home office use.",False
+505.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 512GB storage,False
+109.0,Furniture,IKEA,New,350.0,1,Brand new IKEA Hemnes dresser with six drawers.,False
+110.0,Electronics,Apple,used,1250.0,3,Brand new Apple MacBook Pro 16-inch with M1 chip,False
+111.0,Furniture,Herman Miller,used,1200.0,4,"Brand new Herman Miller Aeron chair, ideal for ergonomic support.",False
+112.0,Clothing,Adidas,used,75.0,1,Brand new Adidas Ultraboost running shoes,True
+113.0,Clothing,Adidas,New,75.0,1,Brand new Adidas UltraBoost running shoes,False
+114.0,Furniture,SofaCo,New,1200.0,5,Brand new SofaCo luxury recliner with built-in USB ports,False
+115.0,Clothing,Adidas,New,85.0,3,Brand new Adidas Ultraboost running shoes.,False
+408.0,Electronics,Apple,New,1199.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+116.0,Clothing,Nike,New,120.0,3,"Brand new Nike Air Max sneakers, size 10",False
+117.0,Clothing,Adidas,New,90.0,5,Brand new Adidas Ultraboost running shoes,False
+118.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+119.0,Furniture,Joybird,New,1450.0,5,Brand new Joybird modern mid-century dining chair set of four.,False
+120.0,Furniture,West Elm,New,1450.0,1,Brand new West Elm mid-century dining chair set of 4.,False
+121.0,Clothing,Nike,used,120.0,2,"Brand new Nike Air Max running shoes, size 10.",True
+122.0,Electronics,LG,used,1450.0,3,"Brand new LG OLED55CXPUA Alexa Built-In 55"" 4K Smart OLED TV",False
+123.0,Clothing,Adidas,used,85.0,1,Brand new Adidas Ultraboost running shoes,False
+124.0,Furniture,SofaCo,New,3200.0,3,Luxurious new SofaCo sectional sofa with customizable fabric options.,True
+125.0,Clothing,Adidas,used,120.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+126.0,Furniture,West Elm,New,1800.0,4,Stylish West Elm modern dining table with a rustic finish.,False
+127.0,Electronics,Apple,used,1099.99,4,Brand new Apple iPhone 14 Pro with 128GB storage,False
+128.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,False
+129.0,Clothing,Nike,used,120.0,1,"Brand new Nike Air Max sneakers, size 10",True
+130.0,Furniture,Article,used,1250.0,2,Brand new Article Ceni mid-century modern sofa in grey fabric.,True
+131.0,Electronics,LG,used,1200.0,3,Brand new LG OLED TV with 65-inch display,False
+132.0,Clothing,Adidas,New,120.0,2,"Brand new Adidas tracksuit, perfect for workouts and casual wear.",False
+133.0,Furniture,Herman Miller,New,1800.0,3,Brand new Herman Miller Aeron chair for ergonomic comfort,True
+134.0,Clothing,Adidas,New,75.0,2,Brand new Adidas classic tracksuit,False
+135.0,Furniture,Article,used,1200.0,3,"Brand new Article Ceni mid-century modern sofa, perfect for any living space.",False
+136.0,Furniture,West Elm,used,1800.0,3,Brand new West Elm mid-century dining table with 6 chairs.,True
+137.0,Furniture,Article,used,1200.0,3,"Brand new Article Sven grass green sofa, perfect for modern living spaces.",False
+138.0,Furniture,Ligne Roset,used,3200.0,5,"Brand new Ligne Roset Togo sofa, perfect for modern living spaces.",True
+139.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes in size 10.,False
+140.0,Furniture,West Elm,used,1450.0,3,Brand new West Elm mid-century dining chair set,False
+141.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,True
+142.0,Clothing,Adidas,used,75.0,4,Brand new Adidas Ultraboost running shoes,False
+143.0,Furniture,IKEA,used,450.0,1,Brand new IKEA Hemnes dresser with six drawers.,False
+144.0,Furniture,Ikea,used,350.0,3,Brand new Ikea Hemnes dresser with six drawers.,False
+145.0,Clothing,Adidas,New,120.0,3,"Brand new Adidas running shoes, lightweight and breathable.",False
+146.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",True
+147.0,Furniture,Simplicity,New,3500.0,2,Brand new Simplicity ergonomic office chair with adjustable features.,False
+148.0,Electronics,Samsung,used,1200.0,1,Brand new Samsung Galaxy Z Flip3 with 256GB storage,False
+149.0,Clothing,Adidas,New,80.0,1,"Brand new Adidas Ultraboost running shoes, size 10.",True
+150.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max 270 sneakers,False
+151.0,Clothing,Adidas,used,120.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+152.0,Clothing,Adidas,used,120.0,4,"Brand new Adidas running shoes, lightweight and comfortable.",False
+153.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 13 Pro with 256GB storage,False
+154.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,True
+155.0,Furniture,Rove Concepts,New,1450.0,4,Brand new Rove Concepts Scandinavian dining chair set.,False
+156.0,Furniture,Article,used,850.0,4,"Brand new Article Ceni sofa, perfect for modern living rooms.",True
+157.0,Electronics,LG,used,1299.99,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+158.0,Clothing,Adidas,New,80.0,3,Brand new Adidas Ultraboost running shoes,False
+159.0,Furniture,SofaCo,used,1450.0,1,Brand new SofaCo luxury sectional sofa with chaise.,False
+160.0,Clothing,Adidas,New,85.0,3,Brand new Adidas Ultraboost running shoes,False
+212.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 13 Pro with 256GB storage,False
+161.0,Furniture,West Elm,New,1250.0,1,Brand new West Elm mid-century lounge chair with velvet upholstery.,False
+162.0,Furniture,IKEA,New,350.0,3,Brand new IKEA KALLAX shelving unit in white.,False
+163.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+164.0,Electronics,Apple,New,1200.0,5,Brand new Apple MacBook Pro with M1 chip and 512GB SSD,True
+1001.0,Furniture,West Elm,New,1200.0,1,"Brand new West Elm mid-century dining table, seats up to 6.",False
+165.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,False
+166.0,Electronics,LG,used,1450.0,5,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+167.0,Clothing,Adidas,New,75.0,3,Brand new Adidas sports tracksuit.,False
+168.0,Furniture,Article,used,850.0,5,Brand new Article Ceni mid-century modern sofa.,False
+169.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+170.0,Furniture,West Elm,used,1200.0,5,Brand new West Elm mid-century modern coffee table in walnut finish.,False
+171.0,Furniture,West Elm,New,3200.0,5,Brand new West Elm mid-century modern dresser with six drawers.,False
+172.0,Furniture,West Elm,used,1750.0,2,Brand new West Elm mid-century dining table made from solid wood.,False
+173.0,Furniture,IKEA,New,750.0,3,Brand new IKEA Hemnes dresser with six drawers.,True
+174.0,Furniture,Simplicity,New,950.0,5,Brand new Simplicity modern dining set with six chairs,False
+175.0,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes.,False
+177.0,Clothing,Adidas,used,75.0,5,"Brand new Adidas Ultraboost running shoes, size 10",False
+179.0,Clothing,Adidas,used,80.0,4,"Brand new Adidas Ultraboost running shoes, size 10",True
+180.0,Furniture,West Elm,New,750.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+181.0,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century dining table in walnut finish,False
+182.0,Clothing,Adidas,New,85.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",False
+183.0,Furniture,Ashley Furniture,used,750.0,5,Brand new Ashley Furniture sectional sofa in grey fabric.,False
+447.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+184.0,Furniture,West Elm,used,3250.0,2,Brand new West Elm mid-century dining set with six chairs.,False
+185.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+186.0,Furniture,Simplicity,New,3500.0,3,Brand new Simplicity handcrafted oak dining table with six chairs.,False
+538.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+188.0,Furniture,IKEA,used,450.0,3,Brand new IKEA KALLAX shelf unit in white.,True
+189.0,Furniture,West Elm,used,1450.0,1,Brand new West Elm mid-century modern coffee table.,False
+190.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+191.0,Furniture,West Elm,used,1350.0,3,Stylish West Elm mid-century dining chair set of 4.,False
+192.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers in various sizes,True
+193.0,Clothing,Adidas,New,80.0,1,Brand new Adidas UltraBoost running shoes,False
+194.0,Furniture,West Elm,used,1750.0,5,Brand new West Elm queen-size upholstered bed frame.,False
+195.0,Clothing,Adidas,used,85.0,4,Brand new Adidas Ultraboost running shoes,False
+196.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro Max with 256GB storage,True
+197.0,Furniture,Article,New,850.0,4,Brand new Article leather sofa with modern design.,False
+198.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+199.0,Clothing,Adidas,used,85.0,2,"Brand new Adidas sports jacket, lightweight and breathable.",False
+200.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+201.0,Furniture,Article,used,875.0,2,Brand new Article Caden sofa with modern design.,False
+203.0,Furniture,West Elm,used,1250.0,5,"Brand new West Elm mid-century dining table, seats six.",True
+204.0,Furniture,Herman Miller,used,3200.0,3,"Brand new Herman Miller Aeron chair, ergonomic design for ultimate comfort.",True
+205.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+206.0,Furniture,West Elm,New,1850.0,2,Stylish West Elm modern dining table with a walnut finish.,False
+207.0,Furniture,West Elm,used,3500.0,4,"Brand new West Elm mid-century modern dining table, seats six.",False
+208.0,Furniture,West Elm,used,1100.0,5,Brand new West Elm mid-century nightstand,False
+209.0,Clothing,Adidas,used,75.0,3,"Brand new Adidas tracksuit, perfect for workouts and casual wear.",True
+210.0,Clothing,Calvin Klein,New,120.0,2,"Stylish Calvin Klein cotton shirt, perfect for casual or formal occasions.",False
+211.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+213.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max 270 sneakers,False
+215.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+666.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+216.0,Clothing,Adidas,used,90.0,1,Brand new Adidas Ultraboost running shoes,True
+217.0,Clothing,Adidas,New,90.0,3,Brand new Adidas Ultraboost running shoes,False
+218.0,Electronics,LG,New,1200.0,5,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+219.0,Furniture,West Elm,used,1750.0,4,Brand new West Elm mid-century dining table with a walnut finish.,False
+220.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,False
+417.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+221.0,Electronics,LG,New,1350.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 55-Inch display.,False
+222.0,Furniture,West Elm,used,1200.0,5,Modern West Elm mid-century dining chair set.,True
+223.0,Furniture,Article,New,1450.0,2,Brand new Article Ceni sectional sofa in light grey fabric.,True
+224.0,Clothing,Adidas,used,85.0,3,Brand new Adidas running shorts,False
+225.0,Furniture,West Elm,New,1200.0,3,Brand new West Elm mid-century dining chair set,False
+226.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
+227.0,Furniture,West Elm,used,1500.0,4,"Stylish West Elm mid-century dining table, seats six comfortably.",False
+228.0,Furniture,West Elm,New,1250.0,5,Brand new West Elm mid-century dining chair set of 4.,True
+229.0,Furniture,Article,New,1450.0,1,Brand new Article Ceni mid-century modern sofa.,True
+230.0,Furniture,West Elm,used,1300.0,1,Brand new West Elm mid-century lounge chair with velvet upholstery,False
+231.0,Electronics,Apple,New,1299.0,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+232.0,Clothing,North Face,New,120.0,5,"Brand new North Face waterproof jacket, perfect for outdoor activities.",False
+233.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+234.0,Furniture,West Elm,New,750.0,5,Brand new West Elm mid-century bookshelf in walnut finish,False
+235.0,Clothing,Nike,New,120.0,5,"Brand new Nike Air Max running shoes, perfect for athletes.",False
+816.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
+236.0,Furniture,Article,used,1300.0,2,"Brand new Article Ceni sofa in gray fabric, perfect for modern living rooms.",False
+237.0,Clothing,Nike,used,120.0,3,Brand new Nike Air Max running shoes in various sizes.,False
+238.0,Electronics,LG,used,1800.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+239.0,Electronics,LG,New,1200.0,2,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+240.0,Furniture,Article,used,1450.0,2,Brand new Article Avasan mid-century modern sofa,False
+241.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,False
+242.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+243.0,Furniture,West Elm,used,750.0,2,Brand new West Elm mid-century side table with storage.,False
+244.0,Clothing,Nike,New,120.0,2,"Brand new Nike Air Max sneakers, perfect for daily wear.",False
+245.0,Clothing,Adidas,New,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10",True
+247.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+248.0,Clothing,Adidas,used,75.0,4,Brand new Adidas Ultraboost running shoes in size 10.,False
+249.0,Furniture,SofaCo,New,1200.0,2,Brand new SofaCo sectional sofa with modern design.,True
+250.0,Electronics,Nikon,New,1200.0,2,Brand new Nikon Z6 full-frame mirrorless camera with 24-70mm lens.,False
+251.0,Furniture,West Elm,used,1750.0,5,Brand new West Elm mid-century dining table crafted from solid wood.,False
+176.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 128GB storage,False
+252.0,Clothing,Nike,used,120.0,4,Brand new Nike Air Max sneakers in size 10,False
+253.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+254.0,Clothing,Adidas,New,85.0,4,Brand new Adidas Ultraboost running shoes.,False
+255.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+256.0,Electronics,LG,New,1500.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 4K resolution,True
+257.0,Furniture,SofaCo,New,3200.0,2,Luxurious SofaCo leather sectional with adjustable headrests.,False
+259.0,Furniture,West Elm,New,950.0,5,Brand new West Elm mid-century lounge chair with velvet upholstery.,False
+260.0,Clothing,Adidas,New,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+261.0,Furniture,West Elm,New,1800.0,4,"Brand new West Elm mid-century dining table, seats 6.",False
+263.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+264.0,Electronics,LG,New,1299.99,5,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+265.0,Clothing,Adidas,used,120.0,5,Brand new Adidas UltraBoost running shoes,True
+266.0,Furniture,IKEA,New,450.0,3,Brand new IKEA Malm queen bed frame with storage drawers.,False
+267.0,Electronics,LG,used,1200.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+268.0,Furniture,West Elm,New,3200.0,1,"Brand new West Elm mid-century dining table, seats 8 comfortably.",False
+269.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+270.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining chair set of 4.,False
+271.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+272.0,Furniture,SofaCo,New,1350.0,2,Brand new SofaCo luxury leather sectional with chaise.,False
+273.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+274.0,Furniture,West Elm,New,1500.0,2,Brand new West Elm mid-century modern coffee table with glass top,False
+275.0,Furniture,SofaCo,used,3200.0,4,Luxurious new SofaCo leather sectional with chaise lounge.,True
+276.0,Clothing,Nike,New,120.0,1,"Brand new Nike Air Max sneakers, size 10.",True
+277.0,Furniture,SofaCo,used,1200.0,3,"Stylish new SofaCo modular couch, perfect for any living room.",False
+278.0,Clothing,Adidas,New,120.0,1,Brand new Adidas ultraboost running shoes,False
+279.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas running shoes, perfect for all terrains.",False
+280.0,Furniture,SofaCo,New,1200.0,2,Brand new SofaCo luxury sectional sofa in gray fabric.,False
+281.0,Furniture,IKEA,New,350.0,2,Brand new IKEA Hemnes dresser with six drawers.,False
+282.0,Clothing,Nike,New,75.0,4,"Brand new Nike Air Max sneakers, perfect for running and casual wear.",False
+283.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max running shoes,True
+284.0,Furniture,SofaCo,used,3200.0,4,Brand new SofaCo luxury leather sectional with adjustable headrests,False
+285.0,Furniture,IKEA,New,350.0,3,Brand new IKEA Hemnes dresser with six drawers.,False
+287.0,Furniture,West Elm,New,1450.0,1,Brand new West Elm mid-century dining chair set,False
+288.0,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,False
+289.0,Clothing,Adidas,used,75.0,3,Brand new Adidas Ultraboost running shoes in black.,False
+290.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+291.0,Electronics,Apple,New,1299.0,2,Brand new Apple iPhone 13 Pro with 256GB storage,True
+292.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,True
+293.0,Furniture,SofaCo,New,1450.0,3,Brand new SofaCo modern sectional sofa with storage.,False
+294.0,Furniture,West Elm,used,1250.0,1,Brand new West Elm mid-century dining chair set of 4.,True
+295.0,Clothing,Adidas,used,120.0,4,"Brand new Adidas running shoes, perfect for all types of runners.",False
+296.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+297.0,Furniture,Article,New,750.0,2,Brand new Article Ceni sectional sofa in gray fabric.,False
+298.0,Electronics,LG,New,1399.99,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 55 inch display.,False
+299.0,Furniture,IKEA,used,350.0,2,Brand new IKEA KALLAX shelf unit in black-brown.,False
+178.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+300.0,Furniture,West Elm,used,1750.0,1,Brand new West Elm mid-century dining table with a sleek design.,False
+301.0,Furniture,West Elm,used,1450.0,5,Brand new West Elm mid-century dining table with seating for six.,False
+302.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+303.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes in size 10,False
+304.0,Furniture,West Elm,New,1200.0,2,Brand new West Elm mid-century dining table,False
+305.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,False
+306.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes in size 10,False
+307.0,Furniture,IKEA,New,350.0,1,Brand new IKEA KALLAX shelf unit in white.,False
+308.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max running shoes in various sizes.,True
+309.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+310.0,Clothing,Adidas,New,90.0,2,Brand new Adidas Ultraboost running shoes,False
+311.0,Electronics,LG,used,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV (2020 model),False
+312.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+313.0,Clothing,Adidas,used,80.0,2,Brand new Adidas Ultraboost running shoes,False
+314.0,Furniture,Article,used,1250.0,1,Brand new Article Avasan dining table in walnut finish.,True
+315.0,Furniture,SofaCo,New,3200.0,3,Luxurious new SofaCo sectional sofa with customizable fabric options.,False
+316.0,Clothing,Nike,used,120.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+317.0,Furniture,West Elm,used,850.0,4,Brand new West Elm mid-century nightstand with storage.,True
+318.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,True
+319.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max running shoes in various sizes,True
+320.0,Clothing,Adidas,used,75.0,4,Brand new Adidas Ultraboost running shoes,False
+321.0,Clothing,Adidas,used,75.0,5,Brand new Adidas Ultraboost running shoes,False
+322.0,Electronics,LG,New,1450.0,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+323.0,Electronics,LG,used,1300.0,2,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+324.0,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table made from sustainably sourced wood.,False
+325.0,Furniture,IKEA,New,320.0,3,Stylish IKEA KALLAX shelf unit for versatile storage.,True
+326.0,Electronics,Nikon,New,1200.0,5,Brand new Nikon D7500 DSLR camera with 18-140mm lens.,False
+327.0,Electronics,LG,used,1200.0,2,Brand new LG OLED55CXPUA Alexa Built-In 55-Inch 4K Smart TV,False
+328.0,Clothing,Adidas,used,75.0,3,Brand new Adidas Ultraboost running shoes,True
+329.0,Furniture,West Elm,New,1450.0,2,Brand new West Elm mid-century dining chair set of 4.,False
+330.0,Furniture,SofaCo,New,3200.0,3,Brand new SofaCo luxurious leather sectional with chaise.,False
+331.0,Furniture,West Elm,New,3200.0,4,Brand new West Elm mid-century modern dresser with six drawers.,False
+332.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+333.0,Clothing,Adidas,New,120.0,2,Brand new Adidas ultraboost running shoes,True
+334.0,Furniture,West Elm,used,1200.0,2,Brand new West Elm mid-century dining table made of solid wood.,True
+335.0,Clothing,Adidas,New,120.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",False
+336.0,Furniture,IKEA,used,350.0,1,"Brand new IKEA KALLAX shelving unit, perfect for organizing your space.",False
+337.0,Clothing,Adidas,New,90.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",True
+338.0,Electronics,LG,New,1300.0,3,"Brand new LG OLED55CXPUA Alexa Built-In CX 55"" 4K Smart OLED TV",False
+339.0,Clothing,Nike,New,120.0,2,"Brand new Nike Air Max running shoes, perfect for all-day comfort.",False
+340.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+341.0,Furniture,SofaCo,New,1250.0,3,Brand new SofaCo luxury sectional sofa with adjustable headrests.,False
+342.0,Furniture,Joybird,New,1450.0,5,Brand new Joybird mid-century modern sofa in teal.,False
+343.0,Furniture,West Elm,used,850.0,3,Brand new West Elm mid-century dining chair set of 4,True
+344.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century modern coffee table.,False
+345.0,Furniture,West Elm,New,1200.0,1,Brand new West Elm mid-century dining table made from solid wood.,False
+346.0,Furniture,Simplicity,used,3200.0,1,Brand new Simplicity modular storage cabinet for efficient space management.,False
+347.0,Electronics,Apple,New,1399.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+348.0,Electronics,LG,New,1500.0,1,"Brand new LG OLED 55"" Smart TV with 4K resolution",False
+349.0,Clothing,Adidas,New,90.0,3,Brand new Adidas Ultraboost running shoes,False
+350.0,Furniture,West Elm,New,3200.0,3,Brand new West Elm mid-century style coffee table with marble top.,False
+351.0,Electronics,LG,New,1200.0,5,"Brand new LG OLED55CXPUA Alexa Built-In 55"" 4K Smart OLED TV",False
+352.0,Furniture,Joybird,New,1200.0,4,Brand new Joybird mid-century modern sofa in vibrant upholstery.,False
+353.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+354.0,Clothing,Adidas,used,120.0,5,Brand new Adidas Ultraboost running shoes,False
+355.0,Furniture,West Elm,New,1450.0,4,"Brand new West Elm mid-century dining chairs, set of 4.",False
+356.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 128GB storage,True
+357.0,Furniture,West Elm,used,1500.0,1,Brand new West Elm mid-century dresser with six drawers,False
+358.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
+359.0,Furniture,Kincaid,New,1250.0,1,Brand new Kincaid solid wood dining table with 6 chairs,True
+361.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers,False
+362.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
+363.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max sneakers,False
+364.0,Furniture,IKEA,used,350.0,4,"Brand new IKEA KALLAX shelf unit, perfect for organizing any room.",False
+365.0,Clothing,Adidas,New,75.0,2,Brand new Adidas Ultraboost running shoes in size 10,True
+366.0,Clothing,Adidas,used,75.0,4,Brand new Adidas Ultraboost running shoes in size 10.,True
+367.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max sneakers in various colors.,True
+368.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+53.0,Electronics,LG,New,1500.0,4,"Brand new LG OLED55CXPUA Alexa built-in 55"" 4K Smart TV",False
+369.0,Electronics,LG,used,1200.0,5,Brand new LG OLED 4K Smart TV with HDR support,True
+370.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+371.0,Furniture,West Elm,New,1200.0,2,Brand new West Elm mid-century dining table with six chairs,False
+372.0,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,True
+373.0,Furniture,West Elm,used,1800.0,3,"Brand new West Elm mid-century modern coffee table, walnut finish.",False
+374.0,Furniture,West Elm,New,850.0,5,Brand new West Elm mid-century dining table with oak finish.,False
+375.0,Clothing,Adidas,New,85.0,1,Brand new Adidas running shoes with boost technology,False
+376.0,Electronics,Apple,used,1399.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+377.0,Electronics,Dell,New,1399.99,3,Brand new Dell XPS 13 laptop with i7 processor and 16GB RAM,True
+378.0,Electronics,LG,New,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+379.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes in black.,False
+380.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+381.0,Electronics,Dell,New,1200.0,5,"Brand new Dell XPS 13 with Intel i7, 16GB RAM, and 512GB SSD.",False
+382.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Superstar sneakers,True
+383.0,Furniture,Article,used,950.0,4,Brand new Article Sven Grass Green Sofa,False
+384.0,Furniture,SofaCo,used,3200.0,4,Brand new SofaCo luxury leather sectional with reclining features.,True
+385.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+386.0,Furniture,West Elm,used,1300.0,4,Brand new West Elm mid-century dining table made from solid wood.,False
+387.0,Furniture,IKEA,New,350.0,3,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+388.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,True
+389.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 13 Pro with 256GB storage,False
+390.0,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes,False
+391.0,Furniture,Article,New,1450.0,5,Brand new Article Culla sofa with mid-century design.,False
+693.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+392.0,Electronics,LG,New,1250.0,3,Brand new LG OLED TV with 4K resolution and HDR support,True
+393.0,Clothing,Adidas,used,75.0,2,Brand new Adidas Ultraboost running shoes,False
+394.0,Clothing,Adidas,New,80.0,5,Brand new Adidas Ultraboost running shoes.,False
+395.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+396.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+397.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+398.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes,False
+399.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max sneakers,True
+400.0,Furniture,West Elm,New,1500.0,4,"Brand new West Elm mid-century style dining chairs, set of 4.",True
+401.0,Clothing,Adidas,New,75.0,4,Brand new Adidas training shorts,False
+402.0,Furniture,West Elm,New,3200.0,3,Brand new West Elm mid-century dining table made of solid wood.,False
+403.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,False
+404.0,Furniture,Serta,New,1500.0,3,Brand new Serta luxury mattress with cooling gel technology,True
+405.0,Furniture,Pottery Barn,used,3200.0,3,"Brand new Pottery Barn farmhouse dining table, seats up to 8.",False
+406.0,Electronics,LG,used,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+407.0,Furniture,SofaCo,New,1350.0,5,Brand new SofaCo luxurious leather sectional sofa.,True
+409.0,Clothing,Nike,New,120.0,1,"Brand new Nike Air Max sneakers, size 10",True
+410.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+411.0,Furniture,LexMod,New,3200.0,3,"Modern LexMod dining table crafted from solid wood, seats up to 8.",False
+412.0,Clothing,Adidas,New,120.0,3,"Brand new Adidas running shoes, perfect for any athlete.",False
+413.0,Furniture,West Elm,New,750.0,2,Brand new West Elm mid-century dining chair set of 4,False
+414.0,Furniture,Article,New,3500.0,1,"Modern Article solid wood dining table, seats 8 comfortably.",True
+824.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+415.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+416.0,Furniture,IKEA,used,450.0,3,Brand new IKEA KALLAX shelving unit with 16 cubes.,False
+418.0,Furniture,West Elm,New,1800.0,3,Brand new West Elm mid-century dining table with 6 chairs.,True
+419.0,Electronics,Nokia,New,450.0,1,Brand new Nokia 8.3 5G smartphone with 128GB storage,True
+420.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+421.0,Furniture,West Elm,used,1450.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+422.0,Clothing,North Face,used,120.0,3,Brand new North Face waterproof jacket for outdoor adventures.,False
+423.0,Clothing,Adidas,used,90.0,2,Brand new Adidas Ultraboost running shoes,True
+424.0,Furniture,West Elm,used,1750.0,4,Brand new West Elm mid-century modern coffee table.,True
+425.0,Clothing,Adidas,New,85.0,4,Brand new Adidas Ultraboost running shoes in size 10.,True
+426.0,Electronics,Apple,New,1199.99,5,Brand new Apple iPhone 14 Pro Max with 256GB storage.,False
+427.0,Furniture,West Elm,used,2750.0,1,"Brand new West Elm mid-century dining table, seats up to 8.",False
+428.0,Electronics,Apple,New,1399.99,1,Brand new Apple iPhone 13 Pro Max with 512GB storage.,False
+429.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,True
+430.0,Furniture,SofaCo,New,3500.0,3,"Elegant and spacious SofaCo leather sectional, perfect for any living room.",False
+431.0,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century dining chair set of 4,False
+432.0,Clothing,Adidas,New,75.0,2,Brand new Adidas Ultraboost running shoes,False
+433.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+434.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+435.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+436.0,Furniture,West Elm,New,1450.0,5,Contemporary West Elm sectional sofa with chaise lounge.,True
+437.0,Clothing,Adidas,used,90.0,2,Brand new Adidas Ultraboost running shoes,False
+187.0,Electronics,Dell,New,1200.0,3,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD.,False
+438.0,Furniture,Article,used,750.0,5,"Gently used Article walnut dining table, seats six comfortably.",False
+439.0,Furniture,Herman Miller,New,3500.0,5,"Brand new Herman Miller Aeron chair, ideal for office comfort.",False
+440.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 13 Pro Max with 256GB storage,False
+441.0,Electronics,Apple,used,1399.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+442.0,Furniture,West Elm,New,1750.0,1,Brand new West Elm mid-century dining table made from solid wood.,True
+443.0,Furniture,West Elm,New,1800.0,4,Modern West Elm round dining table with a walnut finish.,True
+444.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+445.0,Electronics,LG,New,899.99,2,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+446.0,Furniture,Simplicity,New,3200.0,2,"Modern Simplicity oak dining table, seats eight comfortably.",False
+448.0,Electronics,LG,New,1200.0,4,Brand new LG OLED55CXPUA Alexa Built-In OLED TV (55-Inch),False
+449.0,Clothing,Adidas,used,75.0,3,Brand new Adidas UltraBOOST running shoes in size 10.,False
+450.0,Clothing,Nike,used,120.0,2,"Brand new Nike Air Max sneakers, size 10.",False
+451.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",False
+452.0,Furniture,West Elm,New,1450.0,4,"Brand new West Elm mid-century dining table, seats up to 8.",False
+453.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage.,True
+454.0,Electronics,Apple,New,1399.99,2,Brand new Apple iPhone 14 Pro with 128GB storage,True
+455.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,True
+456.0,Furniture,IKEA,New,450.0,1,Brand new IKEA Hemnes dresser with six drawers,False
+457.0,Clothing,Adidas,New,120.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",True
+458.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 13 Pro with 256GB storage,True
+459.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+460.0,Electronics,Dell,New,1200.0,1,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+461.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,True
+462.0,Clothing,Nike,used,120.0,4,"Brand new Nike Air Max running shoes, size 10",True
+463.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 laptop with Intel Core i7,True
+464.0,Clothing,Nike,New,120.0,3,Brand new Nike Air Max running shoes,True
+465.0,Clothing,Tommy Hilfiger,New,120.0,1,Brand new Tommy Hilfiger polo shirt in classic fit,False
+466.0,Clothing,Adidas,used,75.0,1,"Brand new Adidas Ultraboost running shoes, size 10",False
+467.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,True
+468.0,Furniture,Article,New,3500.0,3,Brand new Article Ainsley sectional sofa in gray fabric.,True
+469.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+470.0,Clothing,Adidas,New,120.0,5,"Brand new Adidas ultraboost running shoes, available in various sizes.",False
+471.0,Furniture,Article,New,1450.0,2,Brand new Article Ceni sofa in gray fabric.,True
+472.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes in various sizes.,False
+473.0,Clothing,Adidas,used,75.0,2,"Brand new Adidas running shoes, lightweight and breathable.",True
+474.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+476.0,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,False
+478.0,Furniture,West Elm,New,1800.0,3,Brand new West Elm mid-century dining table made from solid wood.,False
+479.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+480.0,Furniture,SofaCo,New,1450.0,2,Brand new SofaCo modern leather sectional with adjustable headrests.,False
+481.0,Electronics,LG,used,1200.0,2,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",True
+482.0,Furniture,Article,New,1350.0,3,"Stylish and modern Article Ceni sectional sofa, perfect for any living room.",False
+483.0,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining table made from solid wood.,False
+484.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+485.0,Furniture,West Elm,used,850.0,5,Brand new West Elm mid-century dining chair set.,False
+487.0,Furniture,Joybird,New,1450.0,1,Brand new Joybird mid-century modern sofa with customizable fabric options.,False
+488.0,Clothing,Adidas,New,85.0,2,Brand new Adidas Ultraboost running shoes in size 10.,True
+489.0,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes,False
+490.0,Furniture,IKEA,New,350.0,5,Brand new IKEA Hemnes dresser with six drawers,False
+491.0,Furniture,SofaCo,New,1450.0,2,Brand new SofaCo luxury sectional sofa with chaise lounge.,False
+492.0,Furniture,West Elm,used,1200.0,3,Brand new West Elm mid-century dining chair set of 4.,True
+493.0,Furniture,Ashley Furniture,New,1250.0,3,Brand new Ashley Furniture contemporary sofa with cushions,False
+494.0,Clothing,Adidas,used,75.0,1,Brand new Adidas Ultraboost running shoes in various sizes.,False
+495.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+496.0,Furniture,West Elm,New,1250.0,5,Brand new West Elm mid-century dining table with natural finish.,True
+497.0,Furniture,West Elm,New,1250.0,5,"Brand new West Elm mid-century style dining chair, set of 4.",True
+498.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 13 Pro with 256GB storage,False
+499.0,Furniture,Herman Miller,New,3200.0,1,"Brand new Herman Miller Aeron chair, ergonomic design for ultimate comfort.",False
+500.0,Furniture,Simplicity,used,750.0,4,Brand new Simplicity modern dining table with 6 chairs,False
+501.0,Electronics,Dell,New,1200.0,1,Brand new Dell XPS 15 laptop with 16GB RAM and 512GB SSD.,True
+502.0,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,False
+503.0,Furniture,West Elm,New,1800.0,5,Stylish West Elm mid-century modern coffee table.,False
+504.0,Electronics,LG,New,1500.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+506.0,Electronics,LG,New,1500.0,3,Brand new LG OLED55CXPUA Alexa Built-In 55-Inch 4K Smart OLED TV,True
+507.0,Clothing,Adidas,New,75.0,5,Brand new Adidas tracksuit in black,False
+508.0,Electronics,LG,used,1500.0,3,"Brand new LG OLED55CXPUA Alexa Built-In 55"" 4K Smart OLED TV",False
+509.0,Clothing,Nike,New,120.0,3,Brand new Nike Air Max running shoes,False
+510.0,Furniture,West Elm,New,2200.0,5,Brand new West Elm modern dining table with a sleek finish.,False
+511.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+512.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max running shoes,False
+513.0,Electronics,Apple,New,1399.99,1,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+514.0,Clothing,Calvin Klein,New,120.0,1,Brand new Calvin Klein classic fit dress shirt,False
+515.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD.,False
+516.0,Furniture,Article,used,850.0,4,"Brand new Article Ceni sofa, perfect for modern living rooms.",False
+517.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,True
+518.0,Furniture,SofaCo,used,2400.0,3,Elegant SofaCo leather sectional with adjustable headrests.,True
+519.0,Furniture,West Elm,used,1750.0,3,"Brand new West Elm mid-century dining table, seats six.",False
+520.0,Furniture,IKEA,New,350.0,2,Brand new IKEA KALLAX shelf unit with 8 cubes.,False
+521.0,Clothing,Adidas,used,75.0,2,Brand new Adidas Ultraboost running shoes,True
+522.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes,False
+523.0,Furniture,Article,used,950.0,1,Brand new Article Aven chair in gray fabric,False
+524.0,Furniture,West Elm,used,1800.0,2,Brand new West Elm mid-century dining table made from solid wood.,True
+525.0,Electronics,Apple,used,1199.99,3,Brand new Apple iPhone 14 Pro with 128GB storage,True
+526.0,Electronics,LG,used,1200.0,3,Brand new LG OLED TV with 4K resolution and smart features,False
+527.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+528.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max sneakers in size 10,False
+529.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,False
+530.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max sneakers in various sizes.,False
+531.0,Electronics,Apple,used,1399.99,3,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
+532.0,Clothing,Adidas,New,90.0,1,Brand new Adidas Ultraboost running shoes,False
+533.0,Furniture,West Elm,New,1200.0,2,Brand new West Elm mid-century modern coffee table.,True
+534.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 13 Pro with 256GB storage,False
+535.0,Clothing,Adidas,used,95.0,5,Brand new Adidas Ultraboost running shoes,False
+536.0,Furniture,Joybird,New,2200.0,4,Brand new Joybird mid-century modern sofa in teal fabric,False
+537.0,Clothing,Nike,New,120.0,3,Brand new Nike Air Max running shoes in various sizes.,False
+539.0,Furniture,West Elm,New,1750.0,4,Brand new West Elm mid-century style coffee table with storage.,False
+582.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,True
+540.0,Furniture,Herman Miller,New,2200.0,4,"Brand new Herman Miller Aeron chair, perfect for ergonomic support.",False
+541.0,Electronics,LG,New,1499.99,3,Brand new LG OLED55CXPUA Alexa Built-In 55' 4K Smart OLED TV,False
+542.0,Furniture,West Elm,New,1850.0,2,Brand new West Elm mid-century dining table with 6 chairs.,True
+543.0,Furniture,SofaCo,used,1800.0,2,Brand new SofaCo L-shaped sectional sofa with chaise lounge.,False
+544.0,Furniture,West Elm,used,1200.0,1,Brand new West Elm mid-century modern sofa with velvet fabric,False
+545.0,Furniture,IKEA,New,450.0,4,"Brand new IKEA KALLAX shelf unit, perfect for organizing your space.",False
+546.0,Clothing,Adidas,New,75.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",True
+547.0,Clothing,Adidas,used,85.0,2,"Brand new Adidas sports shorts, perfect for workouts and casual wear.",False
+548.0,Electronics,LG,used,1300.0,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55 inch,False
+549.0,Furniture,West Elm,used,1800.0,5,Brand new West Elm mid-century dining chair set of 4.,True
+550.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,True
+551.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
+552.0,Clothing,Adidas,New,85.0,4,Brand new Adidas running shorts,False
+553.0,Furniture,Lovesac,used,3200.0,2,Brand new Lovesac Sactional with removable covers and customizable configurations.,True
+202.0,Electronics,Dell,used,1299.99,5,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+554.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,True
+555.0,Furniture,IKEA,New,350.0,4,"Brand new IKEA KALLAX shelving unit, perfect for organizing your space.",False
+556.0,Furniture,West Elm,New,1350.0,2,Brand new West Elm mid-century dining table crafted from solid wood.,False
+557.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,False
+558.0,Furniture,West Elm,New,1750.0,2,Brand new West Elm mid-century dining table with extension leaf.,False
+559.0,Clothing,Nike,New,120.0,1,Brand new Nike Air Max running shoes in black and white.,False
+560.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+561.0,Electronics,LG,used,1200.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55 inch,False
+562.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
+563.0,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,True
+564.0,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes,False
+565.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+566.0,Furniture,West Elm,used,3500.0,4,Brand new West Elm mid-century dining table with six chairs.,True
+567.0,Clothing,Nike,used,120.0,1,Brand new Nike Air Max sneakers in various sizes.,True
+568.0,Furniture,West Elm,New,1850.0,5,Brand new West Elm mid-century dining table with six chairs.,False
+569.0,Furniture,West Elm,New,1250.0,2,"Brand new West Elm mid-century dining table, seats six comfortably.",False
+570.0,Clothing,Adidas,New,75.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",True
+571.0,Electronics,LG,used,1200.0,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+572.0,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+573.0,Furniture,IKEA,used,350.0,2,"Brand new IKEA KALLAX shelf unit, perfect for any room.",True
+574.0,Electronics,Apple,New,1200.0,3,"Brand new Apple MacBook Air with M1 chip, 256GB SSD",False
+575.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,True
+576.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 128GB storage,False
+577.0,Clothing,The North Face,New,120.0,1,"Brand new The North Face waterproof jacket, perfect for outdoor adventures.",False
+578.0,Clothing,Adidas,New,85.0,5,"Brand new Adidas running shorts, lightweight and breathable.",False
+579.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,True
+580.0,Electronics,Dell,New,1200.0,1,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+581.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,False
+80.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+583.0,Furniture,SofaCo,used,3200.0,2,"Luxurious new sectional sofa from SofaCo, perfect for modern living spaces.",False
+584.0,Furniture,West Elm,used,1200.0,1,"Brand new West Elm mid-century dining table, perfect for family gatherings.",False
+585.0,Furniture,West Elm,New,1250.0,5,Brand new West Elm mid-century dining chair set of 4,True
+586.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+587.0,Clothing,Adidas,used,120.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",True
+588.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+589.0,Clothing,Adidas,New,75.0,2,Brand new Adidas Ultraboost running shoes,True
+590.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max running shoes in size 10.,False
+591.0,Furniture,SofaCo,New,1450.0,1,Brand new SofaCo leather sectional with adjustable headrests,False
+592.0,Furniture,Ashley Furniture,used,750.0,4,Brand new Ashley Furniture queen size bed frame with storage drawers.,False
+593.0,Furniture,West Elm,New,1850.0,3,Modern West Elm dining table in solid walnut.,False
+594.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+595.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,True
+596.0,Clothing,Adidas,used,75.0,4,Brand new Adidas Ultraboost running shoes,False
+597.0,Clothing,Adidas,used,85.0,3,"Brand new Adidas Ultraboost running shoes, perfect for all-day comfort.",False
+599.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max 270 sneakers in various sizes.,True
+600.0,Furniture,IKEA,New,350.0,4,Brand new IKEA KALLAX shelving unit in white.,True
+601.0,Clothing,Adidas,New,75.0,3,Brand new Adidas running shoes with breathable mesh,False
+602.0,Clothing,Nike,New,120.0,1,"Brand new Nike Air Max running shoes, size 10",False
+849.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+603.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
+604.0,Furniture,West Elm,used,1450.0,4,"Brand new West Elm mid-century dining table, seats six.",False
+212.0,Electronics,Apple,New,1399.99,5,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
+605.0,Clothing,Adidas,New,85.0,1,Brand new Adidas Ultraboost running shoes,False
+606.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+607.0,Furniture,West Elm,used,850.0,2,Brand new West Elm mid-century dining chair set of 4.,True
+608.0,Electronics,Apple,used,1199.99,5,Brand new Apple iPhone 13 Pro with 256GB storage,True
+609.0,Clothing,Adidas,New,120.0,3,Brand new Adidas Ultraboost running shoes,True
+610.0,Clothing,Adidas,New,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",True
+611.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,True
+612.0,Clothing,Adidas,used,90.0,5,Brand new Adidas Ultraboost running shoes,False
+613.0,Clothing,Nike,New,120.0,3,"Brand new Nike Air Max sneakers, size 10",False
+614.0,Electronics,Dell,New,1200.0,2,Brand new Dell XPS 13 with Intel i7 and 16GB RAM,False
+615.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+598.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+616.0,Furniture,Article,New,1450.0,2,"Brand new Article Sven grass green loveseat, perfect for modern living rooms.",True
+617.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,True
+618.0,Furniture,West Elm,used,1450.0,3,Brand new West Elm mid-century dining chair set of 4,False
+619.0,Furniture,West Elm,used,1800.0,4,Stylish West Elm mid-century modern coffee table in walnut finish.,True
+620.0,Furniture,West Elm,used,1450.0,1,Brand new West Elm mid-century dining chair set of 4,True
+621.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes,False
+622.0,Electronics,Apple,New,1399.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+623.0,Clothing,Adidas,New,85.0,2,Brand new Adidas Ultraboost running shoes,True
+624.0,Furniture,West Elm,used,1450.0,3,Brand new West Elm mid-century dining chair set of 4.,True
+625.0,Electronics,Dell,used,1200.0,4,Brand new Dell XPS 13 laptop with Intel i7 processor,False
+626.0,Furniture,Article,New,1350.0,5,Brand new Article Ceni sectional sofa in gray fabric.,False
+627.0,Furniture,Herman Miller,New,1200.0,4,Brand new Herman Miller Aeron chair for optimal ergonomic support.,True
+628.0,Clothing,Adidas,used,85.0,4,Brand new Adidas Ultraboost running shoes.,False
+629.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+630.0,Electronics,LG,New,1450.0,4,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55"" 4K Smart TV",False
+631.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes in various sizes.,True
+632.0,Clothing,Adidas,New,90.0,1,Brand new Adidas Ultraboost running shoes,True
+633.0,Furniture,IKEA,New,350.0,3,Brand new IKEA Hemnes dresser with 6 drawers.,False
+634.0,Furniture,West Elm,New,1800.0,4,"Stylish West Elm mid-century dining table, seats up to 8.",False
+635.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+636.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+637.0,Clothing,Adidas,New,85.0,5,Brand new Adidas Ultraboost running shoes,False
+638.0,Clothing,Adidas,New,120.0,4,"Brand new Adidas Ultraboost running shoes, perfect for athletes.",False
+639.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+640.0,Clothing,Adidas,used,85.0,3,Brand new Adidas Ultraboost running shoes,True
+641.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
+475.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage.,True
+642.0,Furniture,West Elm,used,1200.0,2,"Brand new West Elm mid-century dining table, seats six.",False
+643.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 13 Pro with 256GB storage,False
+644.0,Electronics,LG,New,1200.0,1,"Brand new LG OLED55CXPUA Alexa Built-In CX 55"" 4K Smart OLED TV",True
+645.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,True
+646.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+647.0,Clothing,Nike,used,120.0,3,"Brand new Nike Air Max running shoes, size 10.",False
+648.0,Clothing,Adidas,New,120.0,5,Brand new Adidas running shoes,False
+649.0,Furniture,West Elm,New,1350.0,5,"Brand new West Elm mid-century dining table, seats up to 8.",True
+650.0,Furniture,Lounge & Co,used,1350.0,3,Brand new Lounge & Co Scandinavian style coffee table with storage.,False
+651.0,Electronics,LG,New,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+652.0,Clothing,Adidas,used,120.0,5,Brand new Adidas Ultraboost running shoes,False
+653.0,Clothing,Nike,New,120.0,3,Brand new Nike Air Max running shoes,False
+654.0,Electronics,LG,New,1450.0,2,"Brand new LG OLED65CXPUA Alexa Built-In OLED TV, 65-Inch",False
+655.0,Furniture,IKEA,New,350.0,3,Brand new IKEA Hemnes dresser with six drawers.,False
+656.0,Furniture,Lovesac,New,3200.0,5,Brand new Lovesac Sactional with removable covers,False
+657.0,Furniture,West Elm,New,1450.0,4,"Brand new West Elm mid-century dining table, seats six.",False
+658.0,Furniture,IKEA,used,350.0,4,Brand new IKEA Malm dresser with six drawers.,False
+659.0,Furniture,West Elm,New,950.0,1,Brand new West Elm mid-century nightstand in walnut finish.,False
+660.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+661.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+662.0,Electronics,LG,New,1200.0,4,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,True
+663.0,Furniture,West Elm,used,2400.0,4,Elegant West Elm mid-century modern sofa with premium upholstery.,False
+664.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+665.0,Furniture,West Elm,used,1250.0,3,Brand new West Elm mid-century dining table with a natural finish.,False
+667.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 13 Pro with 256GB storage,False
+668.0,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century dining table with six chairs.,False
+669.0,Electronics,LG,New,1499.99,3,Brand new LG OLED65CXPUA Alexa Built-In OLED TV with 4K resolution,False
+670.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+671.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,False
+672.0,Furniture,Simplicity,New,750.0,5,Brand new Simplicity ergonomic office chair with adjustable features.,False
+673.0,Furniture,West Elm,used,850.0,4,Brand new West Elm mid-century dining chairs set of 4,True
+674.0,Electronics,Samsung,New,1200.0,1,Brand new Samsung Galaxy Z Fold4 with 512GB storage,False
+675.0,Electronics,LG,used,1200.0,1,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV 55""",False
+676.0,Furniture,West Elm,used,850.0,3,Brand new West Elm mid-century dining chair set.,False
+677.0,Clothing,Adidas,New,150.0,2,Brand new Adidas Ultraboost running shoes,False
+678.0,Furniture,Article,used,1300.0,3,"Brand new Article Culla sofa, perfect for modern living rooms.",False
+679.0,Electronics,LG,New,1200.0,4,Brand new LG OLED TV with 65-inch screen size,True
+680.0,Furniture,SofaCo,New,3500.0,3,Luxurious new SofaCo leather sectional with adjustable headrests.,False
+681.0,Clothing,Adidas,used,120.0,5,"Brand new Adidas Ultraboost running shoes, size 10",True
+682.0,Clothing,Adidas,used,75.0,1,Brand new Adidas Ultraboost running shoes,False
+683.0,Furniture,Lovesac,New,2500.0,4,Brand new Lovesac Sactional with washable covers and custom fabric.,True
+684.0,Electronics,LG,New,1200.0,4,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55"" 4K Smart TV",True
+685.0,Furniture,IKEA,New,350.0,5,Brand new IKEA Malm dresser with six spacious drawers.,False
+686.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,True
+687.0,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, perfect for any athlete.",False
+688.0,Clothing,Adidas,New,120.0,1,"Brand new Adidas Superstar sneakers, size 10",False
+689.0,Clothing,Adidas,New,120.0,5,Brand new Adidas performance running shoes,True
+690.0,Furniture,West Elm,New,1350.0,2,Brand new West Elm mid-century style dining chair set,False
+93.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro Max with 256GB storage,True
+691.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining chair set of four.,False
+692.0,Furniture,Article,used,950.0,3,"Brand new Article Sven Grass Green Sofa, perfect for any modern living space.",False
+694.0,Furniture,SofaCo,used,3200.0,1,Luxurious SofaCo leather sofa with modern design.,False
+695.0,Clothing,Adidas,New,85.0,4,Brand new Adidas Ultraboost running shoes,False
+696.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro Max with 256GB storage,True
+697.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max running shoes in size 10.,False
+698.0,Clothing,Adidas,used,75.0,2,"Brand new Adidas sports jacket, perfect for outdoor activities.",True
+699.0,Furniture,West Elm,New,1500.0,2,Brand new West Elm mid-century dining table in walnut finish.,False
+700.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+701.0,Furniture,Joybird,New,2100.0,1,Brand new Joybird modern loveseat in vibrant teal.,False
+702.0,Clothing,Adidas,used,120.0,5,"Brand new Adidas Ultraboost running shoes, size 10",False
+703.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,True
+704.0,Electronics,LG,used,1200.0,3,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",True
+705.0,Furniture,Wayfair,used,1300.0,1,Brand new Wayfair modern dining table with six chairs.,False
+706.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+707.0,Furniture,West Elm,New,1200.0,1,"Brand new West Elm mid-century dining table, seats six.",True
+708.0,Furniture,West Elm,New,1350.0,1,Brand new West Elm mid-century dining table with a walnut finish.,False
+709.0,Electronics,LG,used,1499.99,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 55-Inch display,True
+710.0,Clothing,Adidas,used,85.0,3,Brand new Adidas Ultraboost running shoes,False
+711.0,Clothing,Adidas,New,85.0,3,Brand new Adidas Ultraboost running shoes,True
+712.0,Furniture,SofaCo,used,2450.0,5,Luxurious new SofaCo leather sectional with adjustable headrests.,False
+713.0,Clothing,Adidas,New,85.0,5,Brand new Adidas performance running shoes,False
+714.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+715.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+716.0,Furniture,IKEA,New,325.0,1,"Brand new IKEA KALLAX shelving unit, versatile and stylish.",False
+717.0,Furniture,Pottery Barn,New,2200.0,3,"Brand new Pottery Barn farmhouse dining table, seats 8.",True
+718.0,Clothing,Adidas,used,120.0,2,Brand new Adidas Ultraboost running shoes,False
+719.0,Furniture,West Elm,used,2400.0,2,Brand new West Elm mid-century dining table made from solid wood.,False
+720.0,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes in size 10,False
+721.0,Furniture,West Elm,used,1250.0,5,Brand new West Elm mid-century dining chair set of 4.,False
+722.0,Furniture,Joybird,used,1450.0,2,Brand new Joybird mid-century modern sofa with customizable fabric.,True
+723.0,Clothing,Nike,used,120.0,1,Brand new Nike Air Max sneakers,False
+724.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+725.0,Electronics,LG,used,1200.0,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+726.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 13 Pro Max with 256GB storage,False
+727.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+728.0,Clothing,Adidas,New,90.0,1,Brand new Adidas Ultraboost running shoes with excellent cushioning.,False
+729.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes in size 10.,False
+730.0,Furniture,IKEA,used,350.0,5,"Brand new IKEA KALLAX shelf unit, perfect for storage and display.",False
+731.0,Furniture,West Elm,New,1450.0,2,Brand new West Elm mid-century dining chair set.,True
+732.0,Clothing,Adidas,used,120.0,5,"Brand new Adidas sports jacket, lightweight and breathable.",False
+733.0,Clothing,Adidas,used,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+734.0,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century modern side table,False
+735.0,Furniture,Simplicity,used,450.0,5,Sleek Simplicity modern dining table with a walnut finish.,False
+736.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 ultrabook with 16GB RAM and 512GB SSD,False
+737.0,Furniture,IKEA,used,350.0,5,"Brand new IKEA KALLAX shelf unit, versatile storage solution.",False
+738.0,Furniture,West Elm,used,1450.0,3,"Brand new West Elm mid-century dining table, seating for six.",False
+739.0,Furniture,West Elm,New,1800.0,5,Brand new West Elm mid-century dining table with 6 chairs.,True
+740.0,Clothing,Nike,used,120.0,5,"Brand new Nike Air Max sneakers, size 10, limited edition.",False
+741.0,Electronics,Dell,New,1200.0,5,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+742.0,Furniture,West Elm,used,1450.0,2,"Brand new West Elm mid-century dining table, seats up to 8.",True
+743.0,Furniture,West Elm,New,1800.0,1,Brand new West Elm mid-century dining table.,True
+744.0,Furniture,West Elm,New,1750.0,1,Brand new West Elm mid-century dining table with 6 chairs.,False
+745.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+746.0,Clothing,Adidas,used,85.0,4,"Brand new Adidas Ultraboost running shoes, size 10",False
+747.0,Furniture,IKEA,used,350.0,1,Brand new IKEA Hemnes dresser with six drawers.,False
+748.0,Electronics,LG,New,1800.0,2,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+749.0,Furniture,Article,used,750.0,3,"Brand new Article Sven grass green loveseat, perfect for modern decor.",True
+750.0,Furniture,West Elm,used,3200.0,2,Brand new West Elm mid-century dining set with 6 chairs.,True
+751.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+752.0,Electronics,LG,New,1200.0,1,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",True
+753.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 13 Pro Max with 256GB storage,False
+754.0,Clothing,Adidas,New,75.0,5,"Brand new Adidas running shorts, lightweight and breathable.",False
+755.0,Furniture,West Elm,used,1800.0,1,Brand new West Elm mid-century dresser with six drawers,False
+756.0,Clothing,Adidas,New,90.0,5,Brand new Adidas Ultraboost running shoes,True
+757.0,Clothing,Adidas,New,75.0,3,Brand new Adidas Ultraboost running shoes,True
+758.0,Furniture,West Elm,used,1750.0,5,Brand new West Elm modern dining table made of solid wood.,True
+759.0,Furniture,Sofa Factory,used,3500.0,1,Brand new luxury leather sectional sofa with adjustable headrests.,False
+760.0,Furniture,West Elm,New,1750.0,5,Brand new West Elm mid-century dining table with six chairs.,False
+761.0,Electronics,Apple,New,999.99,2,Brand new Apple iPhone 14 Pro Max with 256GB storage,True
+762.0,Clothing,Nike,used,120.0,4,"Brand new Nike Air Max sneakers, size 10.",False
+477.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,True
+763.0,Furniture,Ashley Furniture,New,750.0,2,Brand new Ashley Furniture sectional with chaise lounge.,True
+764.0,Furniture,IKEA,used,450.0,3,"Brand new IKEA KALLAX shelf unit, perfect for storage and organization.",True
+765.0,Electronics,Apple,used,1299.99,5,"Brand new Apple iPhone 14 Pro with 256GB storage, deep purple",False
+766.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,False
+767.0,Furniture,West Elm,New,1450.0,4,Brand new West Elm mid-century dining chair set of 4.,False
+768.0,Furniture,IKEA,used,350.0,1,Brand new IKEA Hemnes dresser with 6 drawers.,False
+769.0,Clothing,Adidas,used,120.0,3,Brand new Adidas UltraBOOST sneakers in size 10,False
+770.0,Clothing,Nike,New,120.0,5,Brand new Nike Air Max running shoes,False
+771.0,Furniture,West Elm,used,1750.0,1,Brand new West Elm mid-century dining table with a walnut finish.,False
+772.0,Clothing,Adidas,New,90.0,3,Brand new Adidas Ultraboost running shoes,True
+773.0,Furniture,Rove Concepts,New,1450.0,1,Brand new Rove Concepts modern dining table made from solid walnut.,False
+774.0,Clothing,Adidas,New,120.0,5,"Brand new Adidas Ultraboost running shoes, size 10.",False
+775.0,Electronics,LG,New,1500.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 55-Inch Display,False
+776.0,Furniture,West Elm,New,1800.0,3,Brand new West Elm mid-century dining table made from solid wood.,True
+777.0,Electronics,LG,used,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV with 55-Inch display,False
+778.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes.,True
+779.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",False
+780.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",False
+781.0,Furniture,West Elm,used,3200.0,5,Brand new West Elm mid-century dining set with six chairs.,False
+782.0,Clothing,Adidas,New,85.0,5,Brand new Adidas Ultraboost running shoes,True
+783.0,Furniture,West Elm,used,1800.0,4,Brand new West Elm mid-century dining table with six chairs.,False
+784.0,Clothing,Adidas,New,85.0,3,Brand new Adidas Ultraboost running shoes,False
+785.0,Furniture,West Elm,New,1350.0,3,Brand new West Elm mid-century dining chair set.,True
+786.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining table with solid wood top.,False
+787.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes,True
+788.0,Furniture,Herman Miller,New,1800.0,4,"Brand new Herman Miller Aeron chair, designed for comfort and support.",False
+789.0,Furniture,West Elm,used,1200.0,4,"Brand new West Elm mid-century dining table, seats 6.",True
+790.0,Clothing,Nike,New,120.0,1,Brand new Nike Air Max sneakers in various sizes.,False
+791.0,Clothing,Adidas,used,120.0,1,"Brand new Adidas Ultraboost running shoes, perfect for any athlete.",True
+792.0,Electronics,Apple,New,1199.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+793.0,Clothing,Adidas,New,75.0,4,Brand new Adidas Ultraboost running shoes,False
+794.0,Furniture,West Elm,used,1450.0,3,Brand new West Elm modern dining table in walnut finish.,False
+795.0,Furniture,West Elm,used,1350.0,2,Brand new West Elm mid-century dining chair set of 4,False
+796.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 512GB storage,True
+797.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes.,False
+798.0,Electronics,LG,New,1499.99,3,Brand new LG OLED55CXPUA Alexa Built-In 55'' 4K Smart OLED TV,True
+799.0,Furniture,West Elm,used,1450.0,3,Brand new West Elm mid-century dining chair set of 4,False
+800.0,Furniture,West Elm,used,1200.0,1,Brand new West Elm mid-century dining table made from solid wood.,True
+801.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,True
+802.0,Clothing,Adidas,New,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10",True
+803.0,Furniture,West Elm,used,1200.0,4,Brand new West Elm mid-century coffee table in walnut finish,False
+804.0,Furniture,West Elm,used,1800.0,1,Brand new West Elm mid-century dining table with 6 chairs.,False
+805.0,Clothing,Nike,New,120.0,1,Brand new Nike Air Max 270 sneakers,True
+806.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 13 Pro with 512GB storage,False
+807.0,Furniture,West Elm,used,1750.0,4,Brand new West Elm mid-century dining table with 6 chairs.,False
+808.0,Furniture,West Elm,used,1200.0,3,Brand new West Elm mid-century dining table with six chairs.,False
+809.0,Furniture,Rove Concepts,used,3200.0,3,Luxurious Rove Concepts dining table made from premium oak wood.,False
+810.0,Furniture,IKEA,New,450.0,5,"Brand new IKEA KALLAX shelf unit, versatile and stylish.",False
+811.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+812.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+813.0,Electronics,LG,New,1450.0,5,Brand new LG OLED55CXPUA Alexa Built-In 55-Inch 4K Smart OLED TV,False
+814.0,Furniture,West Elm,New,3200.0,4,Brand new West Elm mid-century dining table with six chairs.,False
+815.0,Electronics,Apple,New,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage in Space Black.,False
+486.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+817.0,Clothing,Adidas,used,75.0,4,Brand new Adidas running shoes in vibrant colors.,True
+818.0,Electronics,Apple,used,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,True
+360.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+819.0,Clothing,Adidas,used,85.0,1,"Brand new Adidas sports jacket, lightweight and breathable.",False
+820.0,Clothing,Adidas,New,120.0,2,"Brand new Adidas UltraBoost running shoes, perfect for athletes.",True
+821.0,Furniture,West Elm,New,3200.0,3,Brand new West Elm mid-century armchair with premium fabric.,True
+822.0,Clothing,Adidas,used,120.0,5,"Brand new Adidas Ultraboost running shoes, perfect for any athlete.",True
+823.0,Furniture,West Elm,New,1800.0,2,"Brand new West Elm mid-century dining table, seats 6.",True
+825.0,Furniture,Article,New,1350.0,1,Brand new Article Avasan coffee table in walnut finish.,False
+826.0,Furniture,West Elm,New,1350.0,3,Brand new West Elm mid-century dining chair set,False
+827.0,Clothing,Adidas,used,75.0,5,Brand new Adidas Ultraboost running shoes,False
+828.0,Furniture,West Elm,used,3200.0,1,Brand new West Elm industrial-style dining table made from reclaimed wood.,True
+829.0,Furniture,Simplicity,New,3200.0,1,Brand new Simplicity modern dining set with 8 chairs.,True
+830.0,Furniture,Modway,used,1500.0,3,Brand new Modway industrial dining table with reclaimed wood finish.,True
+831.0,Furniture,Article,New,950.0,4,Brand new Article Ainsley sofa in a modern design.,True
+832.0,Electronics,Apple,New,1199.99,5,Brand new Apple MacBook Pro 16-inch with M1 chip and 512GB storage.,False
+833.0,Furniture,West Elm,used,1800.0,3,Brand new West Elm mid-century style dining table.,False
+834.0,Electronics,LG,New,1200.0,3,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+835.0,Electronics,Apple,New,1399.99,1,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+836.0,Furniture,West Elm,used,1800.0,4,Brand new West Elm mid-century dining table with six chairs.,False
+837.0,Furniture,West Elm,used,950.0,1,Brand new West Elm mid-century dining chair set of 4,False
+598.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+838.0,Clothing,Adidas,used,75.0,2,Brand new Adidas Ultraboost running shoes,True
+839.0,Furniture,Simplicity,used,3200.0,3,Brand new Simplicity minimalist dining set for eight.,True
+840.0,Clothing,Nike,used,120.0,4,"Brand new Nike Air Max running shoes, size 10.",False
+841.0,Electronics,Dell,New,1200.0,1,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD,False
+842.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes in size 10.,False
+843.0,Electronics,LG,used,1299.99,4,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch 4K Smart TV.",True
+844.0,Furniture,West Elm,New,3200.0,5,Modern West Elm mid-century dining table made from solid oak.,True
+845.0,Furniture,West Elm,New,1450.0,1,Brand new West Elm mid-century dining table with 6 chairs.,True
+846.0,Furniture,Joybird,used,1400.0,1,Brand new Joybird mid-century modern sofa in teal fabric.,False
+847.0,Electronics,Dell,used,1200.0,5,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD,True
+848.0,Furniture,Simplicity,New,750.0,4,Modern Simplicity dining table with a sleek design.,True
+850.0,Electronics,Dell,New,1200.0,4,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD.,False
+851.0,Electronics,LG,New,1200.0,5,"Brand new LG OLED55CXPUA Alexa Built-In 55"" 4K Smart OLED TV",False
+852.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+853.0,Furniture,SofaCo,New,1350.0,4,Brand new SofaCo luxury sectional with chaise lounge.,False
+854.0,Furniture,Article,used,1450.0,5,Brand new Article Cella sofa with modern design,True
+855.0,Clothing,Nike,used,120.0,3,"Brand new Nike Air Max sneakers, size 10.",False
+875.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+246.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage,False
+856.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+857.0,Electronics,LG,New,1399.99,4,Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55 Inch 4K Smart TV,True
+858.0,Furniture,Rove Concepts,New,2400.0,2,"Modern Rove Concepts Scandinavian dining table, seats up to 8.",False
+859.0,Clothing,Nike,New,120.0,2,Brand new Nike Air Max 270 running shoes,True
+860.0,Clothing,Adidas,used,120.0,1,Brand new Adidas Ultraboost running shoes,False
+861.0,Clothing,H&M,New,75.0,5,"Brand new H&M cotton summer dress, perfect for casual outings.",False
+862.0,Furniture,West Elm,used,1200.0,5,Brand new West Elm mid-century dining table with polished finish.,False
+863.0,Clothing,Calvin Klein,New,120.0,2,Brand new Calvin Klein classic fit dress shirt,True
+864.0,Furniture,Article,New,850.0,2,Brand new Article Ceni sofa in grey fabric.,False
+865.0,Electronics,LG,used,1200.0,5,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+866.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 13 Pro Max with 256GB storage,True
+867.0,Electronics,LG,New,1499.99,1,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",True
+868.0,Clothing,Adidas,used,120.0,1,Brand new Adidas running shoes with breathable mesh.,False
+869.0,Clothing,Adidas,New,75.0,5,Brand new Adidas Ultraboost running shoes,True
+870.0,Clothing,Adidas,used,120.0,5,Brand new Adidas Ultraboost running shoes,True
+871.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage.,True
+872.0,Clothing,Adidas,used,75.0,3,Brand new Adidas Ultraboost running shoes,False
+873.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+874.0,Clothing,Adidas,used,120.0,3,"Brand new Adidas Ultraboost running shoes, perfect for workouts.",False
+876.0,Clothing,Adidas,New,75.0,1,"Brand new Adidas Ultraboost running shoes, size 10",True
+877.0,Electronics,Apple,New,1299.99,2,Brand new Apple iPhone 14 Pro with 256GB storage.,False
+878.0,Clothing,Adidas,New,120.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+879.0,Electronics,Apple,used,1299.99,2,Brand new Apple iPhone 13 Pro with 256GB storage,False
+880.0,Furniture,West Elm,New,1450.0,5,Brand new West Elm mid-century dining chair set of 4.,False
+881.0,Clothing,Adidas,used,85.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",False
+882.0,Furniture,Joybird,New,1200.0,2,Brand new Joybird mid-century modern chair with custom upholstery.,True
+883.0,Clothing,Adidas,New,120.0,4,Brand new Adidas Ultraboost running shoes,False
+884.0,Clothing,Nike,used,120.0,4,Brand new Nike Air Max running shoes,True
+885.0,Furniture,Ashley Furniture,New,850.0,4,Brand new Ashley Furniture contemporary dining set for six.,False
+886.0,Electronics,Apple,New,1199.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+887.0,Furniture,West Elm,New,3200.0,1,Brand new West Elm mid-century dining table with six chairs.,True
+888.0,Clothing,Adidas,used,70.0,5,"Brand new Adidas Ultraboost running shoes, perfect for comfort and performance.",False
+889.0,Furniture,West Elm,used,1750.0,1,Brand new West Elm mid-century modern sofa with plush cushions.,True
+890.0,Furniture,IKEA,used,350.0,1,Brand new IKEA KALLAX shelf unit for versatile storage.,True
+891.0,Electronics,LG,used,1200.0,2,"Brand new LG OLED55CXPUA Alexa Built-In 55"" 4K Smart OLED TV",True
+892.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+893.0,Electronics,Apple,used,1200.0,1,Brand new Apple iPhone 13 Pro with 256GB storage,False
+894.0,Clothing,Adidas,New,70.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+895.0,Clothing,Adidas,used,75.0,5,Brand new Adidas running shorts with moisture-wicking fabric,False
+896.0,Furniture,West Elm,used,1200.0,3,Brand new West Elm mid-century coffee table in walnut finish.,False
+897.0,Clothing,Adidas,New,150.0,3,Brand new Adidas Ultraboost running shoes,True
+898.0,Furniture,IKEA,New,350.0,4,Brand new IKEA Hemnes dresser with six drawers.,True
+899.0,Electronics,Apple,used,1299.99,3,Brand new Apple iPhone 14 Pro with 256GB storage,False
+900.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,True
+901.0,Furniture,Joybird,used,1200.0,4,Brand new Joybird mid-century modern loveseat.,True
+902.0,Furniture,West Elm,used,1800.0,2,Brand new West Elm mid-century dining table with a walnut finish.,True
+903.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,True
+904.0,Furniture,West Elm,New,1250.0,4,"Brand new West Elm mid-century dining chairs, set of 4.",False
+905.0,Furniture,West Elm,New,1350.0,2,"Brand new West Elm mid-century dining table, seats up to 8.",False
+906.0,Clothing,Nike,New,120.0,1,Brand new Nike Air Max running shoes,True
+907.0,Clothing,Adidas,used,120.0,2,"Brand new Adidas Ultraboost running shoes, size 10.",False
+908.0,Furniture,Simplicity,New,3250.0,3,Elegant Simplicity dining table made of reclaimed wood.,False
+909.0,Electronics,LG,used,1500.0,4,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+910.0,Electronics,LG,New,1499.99,5,Brand new LG OLED55CXPUA Alexa Built-In 55-Inch 4K Smart OLED TV,True
+911.0,Furniture,West Elm,New,3200.0,1,"Brand new West Elm mid-century dining table, seats 8.",False
+912.0,Furniture,West Elm,New,1250.0,2,"Brand new West Elm mid-century dining table, seats six.",False
+913.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+914.0,Clothing,Adidas,used,120.0,3,Brand new Adidas Ultraboost running shoes,True
+915.0,Furniture,West Elm,New,1450.0,1,Brand new West Elm mid-century dining table made from solid wood.,False
+916.0,Electronics,LG,New,1499.99,5,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+917.0,Furniture,West Elm,New,1200.0,5,Brand new West Elm mid-century dining table made from solid wood.,False
+918.0,Clothing,Nike,used,120.0,1,"Brand new Nike Air Max running shoes, size 10",False
+919.0,Clothing,Adidas,used,120.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+920.0,Furniture,Article,New,1250.0,3,Brand new Article Ainsley armchair with a mid-century design.,False
+921.0,Clothing,Adidas,used,85.0,4,Brand new Adidas Ultraboost running shoes,False
+922.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes,False
+923.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+924.0,Electronics,Samsung,New,1200.0,5,Brand new Samsung Galaxy S22 with 128GB storage,False
+925.0,Clothing,Adidas,New,85.0,4,Brand new Adidas UltraBoost running shoes in black.,False
+926.0,Electronics,Apple,used,1199.99,5,Brand new Apple iPhone 13 Pro with 256GB storage,False
+927.0,Furniture,West Elm,New,3500.0,1,Brand new West Elm mid-century modern coffee table made from solid wood.,False
+928.0,Furniture,Wayfair,used,3200.0,1,Modern Wayfair solid wood dining table with six chairs.,False
+929.0,Furniture,SofaCo,used,3200.0,3,Luxury new SofaCo sectional with adjustable chaise.,False
+930.0,Clothing,Adidas,New,75.0,1,Brand new Adidas Ultraboost running shoes,False
+931.0,Furniture,West Elm,New,3200.0,4,Brand new West Elm mid-century dining table designed for six.,False
+932.0,Electronics,Dell,used,1200.0,2,Brand new Dell XPS 13 laptop with Intel i7 and 16GB RAM,True
+933.0,Electronics,LG,used,1499.99,2,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,True
+934.0,Electronics,Apple,used,1399.99,1,Brand new Apple iPhone 13 Pro with 256GB storage.,False
+935.0,Furniture,Joybird,New,750.0,5,Brand new Joybird modern loveseat in teal fabric.,True
+936.0,Furniture,West Elm,New,1800.0,4,Brand new West Elm mid-century dining chair set,False
+937.0,Clothing,Adidas,New,90.0,1,Brand new Adidas Ultraboost running shoes in size 10.,True
+938.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining chair set of 4,False
+939.0,Furniture,Article,New,750.0,3,Modern Article sofa with removable covers and plush cushions.,False
+505.0,Electronics,LG,used,1299.99,3,Brand new LG OLED55CXPUA Alexa Built-In OLED TV (2020 model),False
+940.0,Clothing,Nike,used,120.0,2,"Brand new Nike Air Max running shoes, size 10",False
+941.0,Electronics,Dell,used,1200.0,5,Brand new Dell XPS 13 laptop with Intel i7 processor and 16GB RAM,False
+942.0,Electronics,LG,New,1200.0,5,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+943.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,True
+944.0,Electronics,Apple,used,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,True
+945.0,Clothing,Adidas,New,120.0,2,Brand new Adidas Ultraboost running shoes,False
+946.0,Furniture,West Elm,New,3200.0,4,Brand new West Elm mid-century modern dining table in walnut finish.,False
+947.0,Furniture,West Elm,used,850.0,3,"Brand new West Elm mid-century dining chair, set of 4.",False
+948.0,Furniture,West Elm,New,3200.0,2,Brand new West Elm mid-century dining table with six chairs.,False
+949.0,Electronics,LG,New,1200.0,1,Brand new LG OLED55CXPUA Alexa built-in 55 Inch 4K Smart OLED TV,True
+950.0,Clothing,Adidas,New,120.0,5,Brand new Adidas Ultraboost running shoes in vibrant colors.,True
+951.0,Electronics,LG,used,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV - 55 inch,False
+952.0,Furniture,West Elm,used,3200.0,1,Brand new West Elm mid-century modern coffee table.,False
+953.0,Furniture,West Elm,New,1800.0,5,Brand new West Elm industrial style dining table,False
+954.0,Furniture,West Elm,used,3200.0,4,"Brand new West Elm mid-century dining table, seats 6 comfortably.",False
+955.0,Electronics,Dell,used,1200.0,1,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD.,False
+956.0,Furniture,West Elm,used,1450.0,4,Brand new West Elm mid-century dining table crafted from solid wood.,False
+957.0,Clothing,Adidas,New,120.0,1,Brand new Adidas Ultraboost running shoes.,False
+958.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro Max with 256GB storage,False
+959.0,Clothing,Adidas,New,120.0,3,"Brand new Adidas running shoes, perfect for any athlete.",False
+960.0,Clothing,Nike,New,120.0,4,Brand new Nike Air Max sneakers in various sizes.,False
+961.0,Clothing,Adidas,New,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+962.0,Clothing,Adidas,New,75.0,2,Brand new Adidas Essentials T-shirt for men,False
+963.0,Furniture,West Elm,New,1200.0,1,"Stylish West Elm mid-century dining table, seats up to 6.",True
+964.0,Electronics,Apple,used,1299.99,1,Brand new Apple iPhone 14 Pro with 256GB storage,False
+965.0,Clothing,Adidas,New,120.0,2,"Brand new Adidas running shoes, lightweight and comfortable.",False
+966.0,Furniture,West Elm,used,1750.0,2,Brand new West Elm mid-century dining table in walnut finish.,False
+967.0,Clothing,Adidas,New,120.0,4,"Brand new Adidas UltraBoost running shoes, size 10.",False
+968.0,Furniture,West Elm,New,1750.0,3,Brand new West Elm mid-century dining table with seating for six.,False
+970.0,Furniture,West Elm,used,1450.0,1,"Brand new West Elm mid-century dining table, seats up to 6.",False
+971.0,Furniture,SofaCo,New,1450.0,5,Brand new SofaCo luxury sectional sofa with chaise.,True
+972.0,Electronics,Apple,New,1299.99,4,Brand new Apple iPhone 14 Pro with 256GB storage,False
+973.0,Furniture,West Elm,used,1450.0,5,Brand new West Elm mid-century dining chair set of 4.,False
+974.0,Clothing,Adidas,New,85.0,4,Brand new Adidas Ultraboost running shoes,True
+975.0,Furniture,SofaCo,New,3200.0,3,Luxurious new SofaCo sectional with memory foam cushions.,False
+976.0,Furniture,Simplicity,New,3200.0,3,Brand new Simplicity modern oak dining set for six.,True
+977.0,Clothing,Adidas,New,85.0,3,"Brand new Adidas Ultraboost running shoes, size 10.",False
+978.0,Furniture,West Elm,used,1800.0,2,Brand new West Elm mid-century coffee table in walnut finish.,False
+979.0,Electronics,Apple,New,1299.99,1,Brand new Apple iPhone 14 Pro with 512GB storage,False
+980.0,Furniture,West Elm,New,1200.0,5,Brand new West Elm mid-century dining table,True
+981.0,Furniture,West Elm,New,1200.0,4,Brand new West Elm mid-century dining table made of solid wood.,False
+982.0,Clothing,Adidas,New,75.0,4,"Brand new Adidas Ultraboost running shoes, size 10.",True
+983.0,Clothing,Nike,New,120.0,5,"Brand new Nike Air Max running shoes, size 10.",False
+984.0,Electronics,LG,used,1499.99,3,Brand new LG OLED55CXPUA Alexa Built-In 55' 4K Smart OLED TV,False
+985.0,Furniture,Simplicity,used,750.0,1,"Brand new Simplicity modern dining chair set, perfect for any dining area.",False
+986.0,Electronics,LG,New,1200.0,4,"Brand new LG OLED55CXPUA Alexa Built-In OLED TV, 55-Inch",False
+987.0,Furniture,West Elm,New,1450.0,3,Brand new West Elm mid-century dining chairs set of 4,False
+988.0,Clothing,Adidas,used,120.0,4,Brand new Adidas Ultraboost running shoes,True
+989.0,Furniture,Ashley Furniture,used,750.0,4,Brand new Ashley Furniture contemporary dining table set,False
+990.0,Furniture,IKEA,used,350.0,3,"Brand new IKEA KALLAX shelf unit, perfect for organizing any space.",True
+991.0,Furniture,Article,New,3200.0,1,"Brand new Article Sven grass green sofa, perfect for any modern living space.",False
+992.0,Clothing,Adidas,used,120.0,1,"Brand new Adidas training shorts, perfect for workouts.",False
+993.0,Furniture,Lovesac,used,3200.0,5,Brand new Lovesac Sactional with customizable covers,False
+994.0,Furniture,Article,used,750.0,2,Brand new Article walnut dining table,False
+995.0,Electronics,Apple,New,1299.99,5,Brand new Apple iPhone 14 Pro with 256GB storage,False
+996.0,Furniture,West Elm,used,1750.0,3,Brand new West Elm mid-century style dining table with six chairs.,False
+997.0,Electronics,LG,New,1200.0,1,Brand new LG OLED55CXPUA Alexa Built-In OLED TV,False
+998.0,Clothing,Adidas,New,75.0,5,"Brand new Adidas Ultraboost running shoes, perfect for comfort and performance.",True
+999.0,Electronics,Dell,New,1200.0,3,Brand new Dell XPS 13 laptop with 16GB RAM and 512GB SSD,False
+1000.0,Furniture,IKEA,used,350.0,3,Brand new IKEA Hemnes dresser with 6 drawers,False
