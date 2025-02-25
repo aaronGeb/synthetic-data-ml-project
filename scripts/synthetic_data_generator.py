@@ -214,7 +214,7 @@ def main():
 
     # Save to CSV
     output_file = (
-        "/Users/Aaron/synthetic-data-ml-project/data/synthetic_product_listings.csv"
+        "/Users/Aaron/synthetic-data-ml-project/data/product_listings.csv"
     )
     df.to_csv(output_file, index=False)
     print(f"\nGenerated synthetic product listings and saved to '{output_file}'")
