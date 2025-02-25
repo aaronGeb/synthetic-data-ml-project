@@ -3,7 +3,7 @@ WORKDIR /app
 
 COPY environment.yml /app/environment.yml
 
-# Create a Conda environment named 'ml_env' and activate it
+# Create a Conda environment named 'synthetic-ml' and activate it
 RUN conda env create -f environment.yml && conda clean --all -y
 
 # Ensure the environment is activated by default
