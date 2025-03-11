@@ -4,6 +4,7 @@ import numpy as np
 from typing import Optional
 from pandas import DataFrame
 from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
 
 
 class DataPreprocessing:
@@ -65,5 +66,24 @@ class DataPreprocessing:
             ~self.data[column].isin(ids)
             | self.data.duplicated(subset=[column], keep="first")
         ]
+
+        return self.data
+
+    def one_hot_encoding(self, column: list) -> DataFrame:
+        """one hot encoding for categorical columns
+        Args:
+            column: str: column name
+        Returns:
+            DataFrame: data with one hot encoded column
+        """
+        enc = OneHotEncoder()
+        for col in column:
+            if self.data[col].dtype == "object":
+                enc_df = pd.DataFrame(
+                    enc.fit_transform(self.data[[col]]).toarray(),
+                    columns=enc.get_feature_names([col]),
+                )
+                self.data = self.data.join(enc_df)
+                self.data.drop(col, axis=1, inplace=True)
 
         return self.data

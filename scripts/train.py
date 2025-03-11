@@ -81,8 +81,8 @@ class XGBoostTrain:
         """evaluate the model"""
         # Make predictions
         y_pred = self.model.predict(self.X_test)
-        #y_pred = np.expm1(y_pred_log)
-        #self.y_test = np.expm1(self.y_test)
+        # y_pred = np.expm1(y_pred_log)
+        # self.y_test = np.expm1(self.y_test)
 
         # Evaluate the model
         mae = mean_absolute_error(self.y_test, y_pred)

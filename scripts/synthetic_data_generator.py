@@ -213,9 +213,7 @@ def main():
     df = generator.generate_dataset(1000)
 
     # Save to CSV
-    output_file = (
-        "/Users/Aaron/synthetic-data-ml-project/data/product_listings.csv"
-    )
+    output_file = "/Users/Aaron/synthetic-data-ml-project/data/product_listings.csv"
     df.to_csv(output_file, index=False)
     print(f"\nGenerated synthetic product listings and saved to '{output_file}'")
     print("\nDataset Statistics:")
