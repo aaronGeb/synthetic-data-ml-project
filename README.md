@@ -42,6 +42,10 @@ conda create -n synthetic python=3.11
 ```
 conda activate synthetic
 ```
+3.Exports the environment’s configuration.
+```
+conda synthetic export >environmental.yml
+```
 
 ### Model Evaluation
 
