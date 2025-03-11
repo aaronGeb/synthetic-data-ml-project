@@ -5,6 +5,7 @@ import csv
 import pandas as pd
 from dotenv import load_dotenv
 
+
 class SyntheticDatasetGenerator:
     """Class to generate and save a synthetic dataset using OpenAI's API."""
 
@@ -12,15 +13,17 @@ class SyntheticDatasetGenerator:
         """Initialize the generator by loading the API key from environment variables."""
         load_dotenv()
         self.api_key = os.getenv("OPENAI_API_KEY")
-        
+
         if not self.api_key:
-            raise ValueError("Error: OpenAI API key not found. Please set the OPENAI_API_KEY environment variable.")
-        
+            raise ValueError(
+                "Error: OpenAI API key not found. Please set the OPENAI_API_KEY environment variable."
+            )
+
         openai.api_key = self.api_key
 
     def generate_synthetic_dataset(self, num_rows=1000):
         """Generates a synthetic dataset using OpenAI's chat model and returns it as a list of lists."""
-        
+
         prompt = f"""
         Generate a synthetic dataset in CSV format with the following columns: user_id, product_id, rating, and timestamp.
         - user_id: a random integer between 1 and 1000.
@@ -31,19 +34,19 @@ class SyntheticDatasetGenerator:
         """
 
         try:
-            client = openai.OpenAI(api_key=self.api_key)  
+            client = openai.OpenAI(api_key=self.api_key)
 
-            response = client.chat.completions.create( 
+            response = client.chat.completions.create(
                 model="gpt-4o",
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.7,
-                max_tokens=2000
+                max_tokens=2000,
             )
 
             dataset_string = response.choices[0].message.content.strip()
 
             # Convert string response to list of lists
-            dataset = [row.split(',') for row in dataset_string.split("\n")]
+            dataset = [row.split(",") for row in dataset_string.split("\n")]
 
             return dataset
 
@@ -54,10 +57,16 @@ class SyntheticDatasetGenerator:
             print(f"An error occurred: {e}")
             return None
 
-    def save_dataset_to_csv(self, dataset, filename="/Users/Aaron/synthetic-data-ml-project/data/synthetic_dataset.csv"):
+    def save_dataset_to_csv(
+        self,
+        dataset,
+        filename="/Users/Aaron/synthetic-data-ml-project/data/synthetic_dataset.csv",
+    ):
         """Saves the dataset to a CSV file using pandas."""
         try:
-            df = pd.DataFrame(dataset, columns=["user_id", "product_id", "rating", "timestamp"])
+            df = pd.DataFrame(
+                dataset, columns=["user_id", "product_id", "rating", "timestamp"]
+            )
             df.to_csv(filename, index=False)
             print(f"Synthetic dataset saved as {filename}")
 

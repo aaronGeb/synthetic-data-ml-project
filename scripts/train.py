@@ -6,7 +6,6 @@ from sklearn.model_selection import train_test_split
 import pickle
 import os
 import xgboost as xgb
-from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.preprocessing import StandardScaler
 
