@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
+import os
 import numpy as np
 import pandas as pd
 from pandas import DataFrame
 from catboost import CatBoostClassifier
+import pickle
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import (
     accuracy_score,
@@ -64,7 +66,7 @@ class CatBoostTrain:
         """Train the model"""
         # Instantiate the model
         self.model = CatBoostClassifier(
-            iterations=500,
+            iterations=1000,
             learning_rate=0.1,
             depth=6,
             loss_function="Logloss",
@@ -73,7 +75,7 @@ class CatBoostTrain:
             eval_metric="AUC",
         )
         # Train the model
-        self.model.fit(self.X_train, self.y_train, eval_set=(self.X_test, self.y_test),early_stopping_rounds=50)
+        self.model.fit(self.X_train, self.y_train, eval_set=(self.X_test, self.y_test),early_stopping_rounds=500)
 
     def evaluate_model(self) -> None:
         """Evaluate the model"""
@@ -97,7 +99,7 @@ class CatBoostTrain:
 
     def save_model(self) -> None:
         """Save the trained model to a file"""
-        os,makedirs(os.path.dirname(self.model_path),exist_ok=True)
+        os.makedirs(os.path.dirname(self.model_path),exist_ok=True)
         with open(self.model_path,"wb") as file:
             pickle.dump(self.model,file)
         print(f"Model saved successfully")
@@ -110,7 +112,7 @@ class CatBoostTrain:
         self.evaluate_model()
         self.save_model()
 if __name__ == "__main__":  
-    catboost_train = CatBoostTrain(data_path="../data/creditcard.csv")
+    catboost_train = CatBoostTrain(data_path="../data/labeled_data/fraud_encoded_labeled.csv")
     catboost_train.run()
-    
+
 
