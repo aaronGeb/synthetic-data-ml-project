@@ -34,19 +34,14 @@ git clone https://github.com/aaronGeb/synthetic-data-ml-project.git
 cd synthetic-data-ml-project
 ```
 ### Install the required dependencies:
-1.	Create a new Conda environment (if you don’t have one already):
+1.Run the following command to create a new Conda environment based on the configuration in the environment.yml file:
 ```
-conda create -n synthetic python=3.11
+conda synthetic create -f environment.yml
 ```
 2.Activate the environment:
 ```
 conda activate synthetic
 ```
-3.Exports the environment’s configuration.
-```
-conda synthetic export >environmental.yml
-```
-
 ### Model Evaluation
 
 After training, the model will output evaluation metrics such as accuracy, precision, recall, and F1 score, among others. The results will be stored in model_results/.
