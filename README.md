@@ -33,7 +33,15 @@ git clone https://github.com/aaronGeb/synthetic-data-ml-project.git
 ```
 cd synthetic-data-ml-project
 ```
-
+### Install the required dependencies:
+1.	Create a new Conda environment (if you don’t have one already):
+```
+conda create -n synthetic python=3.11
+```
+2.Activate the environment:
+```
+conda activate synthetic
+```
 
 ### Model Evaluation
 
