@@ -60,7 +60,7 @@ class SyntheticDatasetGenerator:
     def save_dataset_to_csv(
         self,
         dataset,
-        filename="/Users/Aaron/synthetic-data-ml-project/data/synthetic_dataset.csv",
+        filename="/Users/Aaron/synthetic-data-ml-project/data/user_interactions.csv",
     ):
         """Saves the dataset to a CSV file using pandas."""
         try:
