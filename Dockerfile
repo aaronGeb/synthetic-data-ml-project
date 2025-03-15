@@ -12,11 +12,14 @@ RUN mkdir -p /app/models
 
 # Copy the required scripts and model files into the container
 COPY scripts/prediction.py /app/
+COPY scripts/prediction.py /app/
+COPY scripts/recommendation.py /app/
 COPY models/xgboost_model.pkl  /app/models/
 COPY models/catboost_model.pkl  /app/models/
+COPY models/recommendation.pkl  /app/models/
 
 # Expose port 9696 for the application
 EXPOSE 9696
 
 # Use Conda environment when running Gunicorn
-ENTRYPOINT ["conda", "run", "-n", "ml_env", "gunicorn", "--bind", "0.0.0.0:9696", "flask_pre:app"]
+ENTRYPOINT ["conda", "run", "-n", "ml_env", "gunicorn", "--bind", "0.0.0.0:9696", "api.main:app"]
