@@ -75,7 +75,12 @@ class CatBoostTrain:
             eval_metric="AUC",
         )
         # Train the model
-        self.model.fit(self.X_train, self.y_train, eval_set=(self.X_test, self.y_test),early_stopping_rounds=500)
+        self.model.fit(
+            self.X_train,
+            self.y_train,
+            eval_set=(self.X_test, self.y_test),
+            early_stopping_rounds=500,
+        )
 
     def evaluate_model(self) -> None:
         """Evaluate the model"""
@@ -99,10 +104,11 @@ class CatBoostTrain:
 
     def save_model(self) -> None:
         """Save the trained model to a file"""
-        os.makedirs(os.path.dirname(self.model_path),exist_ok=True)
-        with open(self.model_path,"wb") as file:
-            pickle.dump(self.model,file)
+        os.makedirs(os.path.dirname(self.model_path), exist_ok=True)
+        with open(self.model_path, "wb") as file:
+            pickle.dump(self.model, file)
         print(f"Model saved successfully")
+
     def run(self):
         """Load data, train model, evaluate model, and save model"""
         data = self.load_data()
@@ -111,8 +117,10 @@ class CatBoostTrain:
         self.train_model()
         self.evaluate_model()
         self.save_model()
-if __name__ == "__main__":  
-    catboost_train = CatBoostTrain(data_path="../data/labeled_data/fraud_encoded_labeled.csv")
+
+
+if __name__ == "__main__":
+    catboost_train = CatBoostTrain(
+        data_path="../data/labeled_data/fraud_encoded_labeled.csv"
+    )
     catboost_train.run()
-
-
