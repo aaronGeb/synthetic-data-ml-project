@@ -2,7 +2,7 @@ FROM continuumio/miniconda3:latest
 WORKDIR /app
 COPY environment.yml /app/environment.yml
 
-RUN conda synthetic create -f environment.yml && conda clean --all -y
+RUN conda env create -f environment.yml && conda clean --all -y
 
 # Ensure the environment is activated by default
 SHELL ["conda", "run", "-n", "synthetic-ml", "/bin/bash", "-c"]
@@ -12,8 +12,8 @@ RUN mkdir -p /app/models
 
 # Copy the required scripts and model files into the container
 COPY scripts/prediction.py /app/
-COPY scripts/prediction.py /app/
-COPY scripts/recommendation.py /app/
+# COPY scripts/prediction.py /app/
+COPY scripts/recommend.py /app/
 COPY models/xgboost_model.pkl  /app/models/
 COPY models/catboost_model.pkl  /app/models/
 COPY models/recommendation.pkl  /app/models/
